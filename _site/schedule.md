@@ -1,5 +1,5 @@
 
-
+<!--
 ## Schedule
 
 The workshop will be a full day event from 9:00 am - 6:15 pm EDT (New York Time).Throughout the day we will be livestreaming invited talks, contributed talks, two poster sessions, and a live panel discussion.
@@ -32,4 +32,4 @@ The schedule is as follows. All times listed are in EDT (New York Time):
 |04:30 - 05:30 |[Poster Session 2](https://pml4dc.github.io/iclr2020/papers.html#session-5) | |
 |05:35 - 05:45 |Closing Remarks | |
 
-The Panel Discussion will focus on training data creation and ownership issues: The tension between reducing resources such as the expense to annotate and gather datasets vs. hiring people to label and annotate datasets (many of the people labeling right now are from the developing world). Most training data labeling companies are hiring people from the developing world for this effort. But a lot of the data is not owned by people from the developing world.
+The Panel Discussion will focus on training data creation and ownership issues: The tension between reducing resources such as the expense to annotate and gather datasets vs. hiring people to label and annotate datasets (many of the people labeling right now are from the developing world). Most training data labeling companies are hiring people from the developing world for this effort. But a lot of the data is not owned by people from the developing world.-->
