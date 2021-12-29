@@ -17,7 +17,7 @@
        <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot">
       </a>
         <div class="headshotname"> Girmaw Abebe </div>
-        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
+        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
 
     <div class="iblock headshotbox "> 
@@ -25,14 +25,14 @@
         <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot">
      </a>
         <div class="headshotname"> Esube Bekele </div>
-        <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> IBM Research </a>
+        <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
     </div>
      <div class="iblock headshotbox ">
      <a target='_blank'  href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas">
         <img src="{{basepath}}/images/organizers/celia.jpg" class="headshot">
       </a>
         <div class="headshotname"> Celia Cintas </div>
-        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> Google </a>
+        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
 
      <div class="iblock headshotbox ">
