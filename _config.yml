@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-description: "Practical ML for Developing Countries Workshop @ ICLR 2020, 
-    <br/> Learning under limited/low resource scenarios.  Addis Ababa, Ethiopia"
-basepath: "iclr2020/"
+description: "Practical ML for Developing Countries Workshop @ ICLR 2022, 
+    <br/> Learning under limited/low resource scenarios.  Virtual"
+basepath: "iclr2022/"
 google_analytics: UA-156425047-1
 
 navigation:
@@ -12,15 +12,15 @@ navigation:
 - text: DATES
   url: /dates.html
   layout: project
-- text: SCHEDULE
-  url: /schedule.html
-  layout: post
-- text: PAPERS
-  url: /papers.html
-  layout: post
-- text: INSTRUCTIONS
-  url: /instructions.html
-- text: VIRTUAL
-  url: /virtual.html
+#- text: SCHEDULE
+#  url: /schedule.html
+#  layout: post
+#- text: PAPERS
+#  url: /papers.html
+#  layout: post
+#- text: INSTRUCTIONS
+#  url: /instructions.html
+#- text: VIRTUAL
+#  url: /virtual.html
 - text: ORGANIZERS
   url: /organizers.html

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
 body { color: #2e2d2d; }
 
 .update { padding: 10px; color: white; background-color: #1C8BE2; }
@@ -63,6 +63,16 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 .invited { background-color: #6BBFFF; }
 
 table { width: 98%; }
+
+.slp { background: #fff; padding: 10px; border: 4px solid #eee; box-shadow: #cccccc 2px 2px 14px 0px; margin-right: 10px; }
+
+.rocket { background: #fff; padding: 10px; border: 4px solid #eee; box-shadow: #cccccc 2px 2px 14px 0px; margin-left: 10px; }
+
+.paper ul { list-style: none; padding-left: 0; margin-top: 0; }
+
+.col { padding: 0; }
+
+.row { margin: 20px; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
@@ -320,6 +330,9 @@ td, th { padding: 0; }
 
 body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
 
+#skip-to-content { height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px; }
+#skip-to-content:focus { position: fixed; top: 10px; left: 10px; height: auto; width: auto; background: #e19447; outline: thick solid #e19447; }
+
 a { color: #1e6bb8; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
@@ -351,6 +364,7 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
+.main-content kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color: #959da5; border-radius: 3px; box-shadow: inset 0 -1px 0 #959da5; color: #444d56; display: inline-block; font-size: 11px; line-height: 10px; padding: 3px 5px; vertical-align: middle; }
 .main-content img { max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }
 .main-content p { margin-bottom: 1em; }
