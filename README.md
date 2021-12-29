@@ -3,7 +3,7 @@
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "/iclr2022" %}
         {%else%}
-        {% assign basepath = "/iclr2022" %}
+        {% assign basepath = "" %}
         {% endif %}
 
 <!-- ## Practical ML for Developing Countries: learning under limited/low resource scenarios -->
