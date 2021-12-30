@@ -5,7 +5,7 @@
 ## Organizers  
 
         {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/iclr2020" %}
+        {% assign basepath = "/iclr2022" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
