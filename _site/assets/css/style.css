@@ -13,10 +13,10 @@ body { color: #2e2d2d; }
 
 .centermiddle { margin: auto; max-width: 950px; padding: 0px 20px 0px 20px; color: #2e2d2d; }
 
-.maintopic { display: inline-block; text-transform: uppercase; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
+.maintopic { display: inline-block; text-transform: uppercase; color: #ffffff; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
 
 @media (max-width: 800px) { .maintopic { font-size: 1.8em; } }
-.subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; }
+.subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; color: #ffffff; }
 
 .border { border: 2px solid black; }
 
