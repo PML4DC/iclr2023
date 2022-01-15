@@ -1,6 +1,6 @@
 ## Call For Papers
 
-Constraints introduced by low resource environments such as developing countries (Africa, South East Asia, South America etc) can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
+Constraints introduced by low resource environments such as developing countries (Africa, South East Asia, South America etc.) can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
 
 ### Algorithms and Methods 
 
@@ -26,7 +26,6 @@ Constraints introduced by low resource environments such as developing countries
 - When machine learning is NOT a viable option.
 - Strategies and policies enabling or enhancing AI/ML adoptions for developing countries.
 
-https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index
 ## Instructions
 
 ### Submission types
@@ -36,7 +35,7 @@ https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index
 5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
 
 ### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).   
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).   
 [https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
@@ -44,9 +43,9 @@ Ongoing work and papers that have appeared in a non-archival venue (workshops, a
 
 ## Important Dates
 
-- Submissions deadline:         **February 26, 2022**
-- Notification:                 March 26th, 2022 
-- Camera ready:                 April 10th, 2022
+- Submissions deadline:         **February 25, 2022**
+- Notification:                 March 25th, 2022 
+- Camera ready(Tentative):      April 10th, 2022
 - Workshop:                     April 29th, 2022
 
 Deadlines are at 11:59 PM (Eastern Time, **ET**). **ET** is **UTC**-05:00.

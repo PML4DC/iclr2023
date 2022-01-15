@@ -6,10 +6,10 @@ To support the new authors on the submission and formatting process, we are prov
 
 ### Important steps
 
-- Download the ICLR [template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip?raw=true) 
-- Make submission edits on the file <b><i>iclr2020_conference.tex</i></b> template
+- Download the ICLR [template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip?raw=true) 
+- Make submission edits on the file <b><i>iclr2022_conference.tex</i></b> template
 - Optionally make edits after uploading the ICLR template files to [overleaf](https://www.overleaf.com/)
-- Finally submit the anonymized pdf format of your paper to [CMT PML4DC](https://cmt3.research.microsoft.com/PML4DC2020/)
+- Finally submit the anonymized pdf format of your paper to [CMT PML4DC](https://cmt3.research.microsoft.com/PML4DC2022/)
 
 ### Addtional Information
 
