@@ -39,7 +39,7 @@ Contributions should be blinded and submitted using the [ICLR template](https://
 [https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
-Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
+Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2020 or 2021. Please note that submissions are non-archival.
 
 ## Important Dates
 

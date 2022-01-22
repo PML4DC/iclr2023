@@ -24,6 +24,29 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
 *  Industry practices to scale-up ML solutions in low resource settings while balancing performance and latency tradeoffs
 * Societal and policy impacts of ML solutions in developing countries obtained via pilot studies, qualitative research, and human-in-the-loop settings.
 
+## Keynote Speakers
+
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/hamed.jpg" class="headshot">
+        <div class="headshotname"> Hamed Haddadi </div>
+            <a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Imperial College London & Brave Software, UK</a>
+    </div>
+        
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot" target="_blank">
+        <div class="headshotname"> Raesetje Sefala </div>
+        <a href="" class="headshotaffiliation"> DAIR, USA</a>
+    </div>
+    
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot" target="_blank">
+        <div class="headshotname"> Kush R. Varshney </div>
+         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation"> IBM Research, NY USA</a>
+    </div>
+</div>
+
+
 
 
 ### Commitment to Diversity
