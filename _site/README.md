@@ -42,10 +42,9 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot" target="_blank">
         <div class="headshotname"> Kush R. Varshney </div>
-         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation"> IBM Research, NY USA</a>
+         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation" target="_blank">> IBM Research, NY USA</a>
     </div>
 </div>
-
 
 
 
