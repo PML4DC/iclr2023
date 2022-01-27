@@ -67,65 +67,33 @@
     </div>
 </div>
 
-<!--
 ## Program Committee
 
 | Name          | Company/Institute |
 | ------------- | ----------------- |
-| Adji Bousso Dieng |Columbia University |
-| Bernease Herman |University of Washington |
-| Bianca Zadrozny |IBM Research |
-| Bryan	Wilder  |Harvard University |
-| Charles Onu |McGill University |
-| Chinasa Okolo |Cornell University |
-| Daniel Nkemelu |Georgia Tech |
-| David Barret |Deepmind |
-| Deborah Raji |University of Toronto |
-| Ehi Nosakhare | |
-| Elaine Nsoesie |Boston University |
-| Emmanuel Johnson |University of Southern California |
-| Evan Rosenman | |
-| Ezinne Nwankwo |Duke University |
-| Flora Tasse |Slerio |
-| Geoffrey Siwo |University of Notre Dame |
-| Ignatius Ezeani |Lancaster University |
-| Irene	Chen |MIT |
-| Jack Hessel |Cornell University |
+| Akram Zaytar|IBM Research|
+| Chinasa T Okolo |Cornell University |
+| Diana Mabel Diaz Herrera |University of Illinois at Chicago |
+| Evan Rosenman| |
+| Geoffrey Siwo | |
+| Huiqi Lu |University of Oxford |
+| Ignatius Ezeani | |
 | Jayson Salkey |TBC |
-| Joshua Gardner | |
-| Judy Wawira |Emory |
-| Julius Adebayo |MIT |
-| Kentaro Toyama | |
-| Keziah Naggita | |
-| Kianté Brantley |The University of Maryland College Park |
-| Kris Sankaran |MILA |
-| krystal Maughan |University of Vermont |
-| Kush Varshney |IBM Research |
-| Melissa Woghiren |University of Alberta |
+| Julian Kuehnert |IBM Research |
+| krystal A maughan |University of Vermont |	
+| Kush R Varshney |IBM Research |
+| Luis Oala |Fraunhofer Institute for Telecommunications - Heinrich Hertz Institute |
+| Maysa	M G Macedo |IBM Research |
 | Michael Best | |
-| Michael Lomnitz |IQT - Lab41 |
-| Michael Melese |Addis Ababa University |
-| Nenad Tomasev |Deepmind |
-| Nina Lopatina |IQT - Lab41 |
-| Oluwafunmilola Kesa |Warwick |
-| Pablo Samuel Castro |Google |
-| Paidamoyo Chapfuwa |Duke University |
-| Raesetje Sefala |University of the Witwatersrand |
-| Ramya Raghavendra |IBM Research |
-| Ruth Fong |University of Oxford |
-| Samy Bengio |Google AI |
-| Sanmi Koyejo |Uinversity of Illinois|
-| Sileye Ba |Dailymotion |
-| Stephen Fashoto |University of Swaziland |
-| Tejumade Afonja |AI Saturdays Lagos |
-| Thomas Jones |In-Q-Tel |
-| Victor Dibia |Cloudera Fast Forward Labs |
-| Victor Silva |University Alberta |
-| Vishal Sandesara |IQT - Lab41 |
-| Wallace E. Lawson |NRL |
-| Yoshua Bengio |MILA |
-| Zanele Munyikwa |MIT Sloan School of Management |
--->
+| Pablo	Navarro |CENPAT - CONICET |
+| Raesetje B Sefala |University of the Witwatersrand |
+| Ramya Raghavendra |Facebook |
+| Rodrigo Echeveste |CONICET / Universidad Nacional del Litoral |
+| Samaneh Kouchaki |University of Surrey |
+| Tejumade M Afonja |AI Saturdays Lagos |
+| Victor A Akinwande |IBM Research - Africa |
+| Xiaorong Ding |University of Electronic Science and Technology of China |
+
 ## Contact
 
 Have questions about the conference? Email us at pml4dc [at] gmail [dot] com
