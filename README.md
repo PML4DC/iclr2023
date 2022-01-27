@@ -28,19 +28,24 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
 
 <div>
     <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> Lucian Benotti </div>
+            <a href="https://benotti.github.io/" class="headshotaffiliation" target="_blank">Universidad Nacional de Córdoba, Argentina</a>
+    </div>
+    <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/hamed.jpg" class="headshot">
         <div class="headshotname"> Hamed Haddadi </div>
             <a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Imperial College London & Brave Software, UK</a>
     </div>
         
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot" target="_blank">
+        <img src="{{basepath}}/images/speakers/raesetje.jpg" class="headshot" target="_blank">
         <div class="headshotname"> Raesetje Sefala </div>
-        <a href="" class="headshotaffiliation"> DAIR, USA</a>
+        <a href="https://sefalab.github.io/" class="headshotaffiliation" target="_blank"> DAIR, USA</a>
     </div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot" target="_blank">
+        <img src="{{basepath}}/images/speakers/kush.jpg" class="headshot" target="_blank">
         <div class="headshotname"> Kush R. Varshney </div>
          <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation" target="_blank"> IBM Research, NY USA</a>
     </div>

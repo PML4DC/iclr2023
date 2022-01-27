@@ -91,7 +91,7 @@
 | Rodrigo Echeveste |CONICET / Universidad Nacional del Litoral |
 | Samaneh Kouchaki |University of Surrey |
 | Tejumade M Afonja |AI Saturdays Lagos |
-| Victor A Akinwande |IBM Research - Africa |
+| Victor A Akinwande |Carnegie Mellon University |
 | Xiaorong Ding |University of Electronic Science and Technology of China |
 
 ## Contact
