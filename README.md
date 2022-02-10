@@ -28,7 +28,7 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/luciana.jpg" class="headshot">
         <div class="headshotname"> Luciana Benotti </div>
             <a href="https://benotti.github.io/" class="headshotaffiliation" target="_blank">Universidad Nacional de Córdoba, Argentina</a>
     </div>
