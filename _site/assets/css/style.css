@@ -28,11 +28,11 @@ body { color: #2e2d2d; }
 
 .navactive { background-color: #1C8BE2; color: white; }
 
-.headshotbox { margin: 10px 15px 0px 0px; max-width: 210px; vertical-align: top; }
+.headshotbox { margin: 10px 15px 0px 0px; display: flex; align-items: top; flex-direction: row; }
 
-.headshot { width: 200px; height: 200px; object-fit: cover; display: block; border-radius: 4px; }
+.headshot { width: 200px; height: 200px; display: block; padding: 10px; }
 
-.headshotname { margin: 5px 0px 0px 0px; }
+.headshotname { margin: 0px 0px 0px 0px; font-weight: bold; }
 
 .headshotaffiliation { color: #1C8BE2; }
 

@@ -32,13 +32,17 @@ Constraints introduced by low resource environments such as developing countries
 - Short papers and position pieces (up to 5 pages)
 - Problem statements and abstracts (up to 2 page)
 
-5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
+- In addition, ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2020 or 2021. Please note that submissions are non-archival.
 
-Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2020 or 2021. Please note that submissions are non-archival.
+### Accepted Submissions
+ - 5-page submissions will be _eligible_ for oral or poster presentation. 
+ - 2-page submissions will be presented as posters. In both cases, page limit applies to content only, excluding references.
+ - PML4DC will arrange registration/attendance sponsorships for authors of accepted submissions.
 
-### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).   
-[https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index
+
+### Submission Format and Link
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).
+[https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). <!--https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index-->
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
 
