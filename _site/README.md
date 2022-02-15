@@ -27,10 +27,10 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
 ## Keynote Speakers
 <div>
 
- <div class="headshotname"> Luciana Benotti </div>
- <a href="https://benotti.github.io/" class="headshotaffiliation" target="_blank">Universidad Nacional de Córdoba, Argentina</a>
+ <div class="iblock headshotname"> Luciana Benotti </div>
+ <p><a href="https://benotti.github.io/" class="headshotaffiliation" target="_blank">Universidad Nacional de Córdoba, Argentina</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/luciana.jpg" class="headshot"></p>
+  <p><img src="{{basepath}}/images/speakers/luciana.jpg" class="headshot" alt="picture of Luciana"></p>
   <p align='justify'>
   Luciana is an Associate Professor at the Universidad Nacional de Córdoba in Argentina. She grew up in Patagonia, where she got her bachelor degree in Computer Science. Luciana lived in Europe while pursuing her graduate studies obtaining an Erasmus Mundus Masters joint degree by the universities of Bolzano and Madrid, and a PhD in Computer Science from the Université de Lorraine. Her research interests include dialogue systems, natural language grounded in vision, and the study of societal impacts of natural language processing (NLP). She currently serves as the chair of the executive board for the North American Association in Computational Linguistics (NAACL). At NAACL she is committed to lowering access barriers for minorities and to supporting policies towards the study of the societal impacts of NLP technologies.
   </p>
@@ -38,11 +38,11 @@ Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-
 
  <br><br>
 
- <div class="headshotname"> Hamed Haddadi </div>
-  <a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Imperial College London & Brave Software, UK</a>
+ <div class="iblock headshotname"> Hamed Haddadi </div>
+  <p><a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Imperial College London & Brave Software, UK</a></p>
  
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/hamed.jpg" class="headshot"></p>
+  <p><img src="{{basepath}}/images/speakers/hamed.jpg" class="headshot" alt="picture of Hamed"></p>
   <p align ='justify'>
 Hamed is a Reader in Human-Centred Systems and the Director of Postgraduate Studies at the Dyson School of Design Engineering at The Faculty of Engineering, Imperial College London. He serves as a Security Science Fellow of the Institute for Security Science and Technology, leads the Systems and Algorithms Laboratory, and is an Academic Fellow of the Data Science Institute. . In his industrial role, he is a Visiting Professor and the Chief Scientist at Brave Software where he works on developing privacy-preserving analytics protocols. He is interested in User-Centred Systems, IoT, Applied Machine Learning, and Data Security & Privacy. He enjoys designing and building systems that enable better use of our digital footprint, while respecting users' privacy.
 
@@ -53,10 +53,10 @@ He studied for BEng/MSc/PhD at University College London and the University of C
   
 <br><br>
     
- <div class="headshotname"> Raesetje Sefala </div>
-  <a href="https://sefalab.github.io/" class="headshotaffiliation" target="_blank"> DAIR, USA</a>
+ <div class="iblock headshotname"> Raesetje Sefala </div>
+ <p><a href="https://sefalab.github.io/" class="headshotaffiliation" target="_blank"> DAIR, USA</a></p>
   <div class="iblock headshotbox"> 
- <p><img src="{{basepath}}/images/speakers/raesetje.jpg" class="headshot"></p>
+ <p><img src="{{basepath}}/images/speakers/raesetje.jpg" class="headshot"  alt="picture of Raesetje"></p>
   <p align='justify'>
   Raesetje uses computer vision, data science, and machine learning techniques to explore research questions with a societal impact. Her current research uses satellite imagery to study the legacy of spatial apartheid in South Africa. She holds a masters degree in computer science from the University of the Witwatersrand and is the co-founder of Women In Computational Science Research (WiCSR), a community that empowers and encourages women’s growth and participation in the computational sciences. Raesetje’s work has been the recipient of the best poster presentation prize at the 2018 Deep Learning Indaba, and she is also the recipient of the data science for social good fellowship and the Sasol Inzalo Foundation scholarship.
   </p>
@@ -64,11 +64,10 @@ He studied for BEng/MSc/PhD at University College London and the University of C
 
 <br><br>
  
-<div class="headshotname"> Kush R. Varshney </div>
-   <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation" target="_blank"> IBM Research, NY USA</a>
-  
- <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/kush.jpg" class="headshot"></p>
+<div class="iblock headshotname"> Kush R. Varshney </div>
+   <p><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-krvarshn" class="headshotaffiliation" target="_blank"> IBM Research, NY USA</a></p>
+  <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/kush.jpg" class="headshot" alt="picture of Kush"></p>
   <p align='justify'>
 Kush R. Varshney was born in Syracuse, NY in 1982. He received the B.S. degree (magna cum laude) in electrical and computer engineering with honors from Cornell University, Ithaca, NY, in 2004. He received the S.M. degree in 2006 and the Ph.D. degree in 2010, both in electrical engineering and computer science from the Massachusetts Institute of Technology (MIT), Cambridge. While at MIT, he was a National Science Foundation Graduate Research Fellow.
 Dr. Varshney is a distinguished research staff member and manager with IBM Research at the Thomas J. Watson Research Center, Yorktown Heights, NY, where he leads the machine learning group in the Foundations of Trustworthy AI department. He was a visiting scientist at IBM Research - Africa, Nairobi, Kenya in 2019. He is the founding co-director of the IBM Science for Social Good initiative. He applies data science and predictive analytics to human capital management, healthcare, olfaction, computational creativity, public affairs, international development, and algorithmic fairness, which has led to recognitions such as the 2013 Gerstner Award for Client Excellence for contributions to the WellPoint team and the Extraordinary IBM Research Technical Accomplishment for contributions to workforce innovation and enterprise transformation, and Harvard Belfer Center Tech Spotlight runner-up for AI Fairness 360. He conducts academic research on the theory and methods of trustworthy machine learning. His work has been recognized through best paper awards at the Fusion 2009, SOLI 2013, KDD 2014, and SDM 2015 conferences and the 2019 Computing Community Consortium / Schmidt Futures Computer Science for Social Good White Paper Competition.
@@ -78,7 +77,8 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   
 </div>
 
-
+<!--
 ### Commitment to Diversity
 
 We expect the workshop topic areas would attract a wide range of participants such as ML researchers, industry professionals, government stakeholders, policymakers, healthcare workers, social scientists, and educators. We believe the focus on practical solutions  for developing countries coincides well with the historic first time  a major machine learning conference is being held in Africa. This will help attract a large pool of local talent that are directly affected by the problem this workshop addresses. With most of the organizers of the workshop having previous experience in organizing diversity and inclusion workshops such as Black in AI and the Deep Learning Indaba, utmost effort has been  made to attract a diverse (gender, geography, background) group of presenters and participants.
+-->
