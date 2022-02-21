@@ -88,7 +88,7 @@
 | Kush R Varshney |IBM Research |
 | Luis Oala |Fraunhofer Institute for Telecommunications - Heinrich Hertz Institute |
 | Maysa	M G Macedo |IBM Research |
-| Michael Best | Georgia Tech |
+| Michael Best | Georgia Institute of Technology |
 | Pablo	Navarro |CENPAT - CONICET |
 | Raesetje B Sefala |University of the Witwatersrand |
 | Ramya Raghavendra |Facebook |

@@ -41,7 +41,7 @@ Constraints introduced by low resource environments such as developing countries
 
 
 ### Submission Format and Link
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).
+Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).
 [https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). <!--https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index-->
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
