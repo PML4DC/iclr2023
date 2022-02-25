@@ -2,7 +2,7 @@
 
 ## Important Dates
 
-- Submissions deadline:         **February 25, 2022**
+- Submissions deadline (Extended):         **March 6, 2022**
 - Notification:                 March 25th, 2022 
 - Camera ready (Tentative):     April 10th, 2022
 - Workshop:                     April 29th, 2022
