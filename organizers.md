@@ -60,7 +60,7 @@
     </div>
 </div>
 
-## Adivsors
+## Advisors
 
  <div class="iblock organizerbox ">
      <a   target='_blank' href="https://ai.stanford.edu/~tgebru/">
