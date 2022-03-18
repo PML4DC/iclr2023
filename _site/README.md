@@ -11,7 +11,7 @@
 ### Practical Machine Learning for Developing Countries: learning under limited/low resource scenarios
 
 <!--<div class="update">
-        Update: Given the recent concerns around COVID19, ICLR 2022 will be a fully virtual conference. While the details for remote presentation are being finalized, authors of accepted papers/posters are encouraged to view the <a href="https://iclr.cc/Conferences/2022/virtual"> ICLR virtual presentation guidelines here </a> .-->
+        ICLR 2022 will be a fully virtual conference. While the details for remote presentation are being finalized, authors of accepted papers/posters are encouraged to view the <a href="https://iclr.cc/Conferences/2022/virtual"> ICLR virtual presentation guidelines here </a> .-->
 
        
 The constant progress being made in artificial intelligence needs to extend across borders if we are to democratize AI in developing countries. Adapting the state-of-the-art (SOTA) methods to resource constrained environments such as developing countries, is challenging in practice. Recent breakthroughs in natural language processing (NLP), for instance, rely on increasingly complex and large models (e.g. most models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2) that are pre-trained on large corpus of unlabeled data. In most developing countries, low/limited resources makes the adoption of these breakthroughs harder. Methods such as transfer learning will not fully solve the problem either due to bias in pre-training datasets that do not reflect real test cases in developing countries as well as the prohibitive cost of fine-tuning these large models. This in turn, hinders the democratization of AI. 
@@ -76,9 +76,3 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
  </div>
   
 </div>
-
-<!--
-### Commitment to Diversity
-
-We expect the workshop topic areas would attract a wide range of participants such as ML researchers, industry professionals, government stakeholders, policymakers, healthcare workers, social scientists, and educators. We believe the focus on practical solutions  for developing countries coincides well with the historic first time  a major machine learning conference is being held in Africa. This will help attract a large pool of local talent that are directly affected by the problem this workshop addresses. With most of the organizers of the workshop having previous experience in organizing diversity and inclusion workshops such as Black in AI and the Deep Learning Indaba, utmost effort has been  made to attract a diverse (gender, geography, background) group of presenters and participants.
--->

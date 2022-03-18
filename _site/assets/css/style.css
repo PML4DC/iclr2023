@@ -74,6 +74,12 @@ table { width: 98%; }
 
 .row { margin: 20px; }
 
+.collapsible { background-color: #ffffff; color: #385b90; cursor: pointer; padding: 15px; width: 100%; border: none; text-align: left; outline: none; font-size: 15px; }
+
+.active, .collapsible:hover { background-color: #9ccad9; }
+
+.content { padding: 0 18px; display: none; overflow: hidden; background-color: #f1f1f1; }
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }

@@ -12,5 +12,7 @@ navigation:
 - text: DATES
   url: /dates.html
   layout: project
+- text: PROGRAM
+  url: /program.html
 - text: ORGANIZERS
   url: /organizers.html
