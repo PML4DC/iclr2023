@@ -4,7 +4,7 @@
 
 - Welcome Remarks
 
-- Invited Talk 1: Hamed Haddadi
+- Invited Talk 1: <i>Hamed Haddadi</i>
 <div>
 <button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
 <div class="content">
@@ -21,7 +21,7 @@
 </div>
 - Coffee Break + Poster Session I
 
-- Invited Talk 2: Luciana Benotti
+- Invited Talk 2: <i>Luciana Benotti</i>
 <div>
 <button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
 <div class="content">
@@ -39,7 +39,7 @@
 
 - Lunch Break + Poster Session II
 
-- Invited Talk 3: Raesetje Sefala
+- Invited Talk 3: <i>Raesetje Sefala</i>
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
@@ -47,7 +47,7 @@
 </div>
 </div>
 
-- Invited Talk 4: Kush R. Varshney
+- Invited Talk 4: <i>Kush R. Varshney</i>
 <div>
 <button type="button" class="collapsible">Carative AI</button>
 <div class="content">
@@ -64,7 +64,7 @@
 </div>
 
 
-- Panel Discussion: on practical issues of AI for developing countries
+- Panel Discussion: TBA
 
 - Closing Remarks
 
