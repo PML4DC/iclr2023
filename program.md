@@ -4,11 +4,11 @@
 
 - Welcome Remarks
 
-- Invited Talk 1: <i>Hamed Haddadi</i>
+- Invited Talk 1: <i>Luciana Benotti</i>
 <div>
-<button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
+<button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
 <div class="content">
-  <p align='justify'>On-device Machine Learning applications provide a wealth of opportunities for sensing and analytics, particularly when cloud connectivity is not always readily available. Making these applications more energy-efficient and private can reduce their reliance on batteries and/or excessive data collection. Solutions in this space would have significant implications for a new generation of sensing and monitoring applications for environmental monitoring, population-wide analytics, scientific exploration, and climate/weather prediction. In this talk I will provide an overview of recent attempts in this space, and challenges ahead for providing reliable, secure, and private client-side applications.</p>
+  <p>In this talk, we highlight the challenges of three practical machine learning(ML) projects conducted by researchers in Argentina. First, we present our collaboration with the Latinamerican and the Carribean hub of the Feminist AI Research Network (aka, f&lt;A+i&gt;r). Second, we talk about a project that uses Natural Langugae Processing for the de-identification of electronic health records in collaboration with La Rioja province in Argentina. Finally, we will describe a project applied to agroecological vegetable gardens in Patagonia. This talk will sythesize reflections about the practicalities and the ethical considerations of applying ML. We will also include our lessons learned from collaborating with other researchers based in Latin America and the Carribean.</p>
 </div>
 </div>
 
@@ -21,11 +21,11 @@
 </div>
 - Coffee Break + Poster Session I
 
-- Invited Talk 2: <i>Luciana Benotti</i>
+- Invited Talk 2: <i>Hamed Haddadi</i>
 <div>
-<button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
+<button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
 <div class="content">
-  <p>In this talk, we highlight the challenges of three practical machine learning(ML) projects conducted by researchers in Argentina. First, we present our collaboration with the Latinamerican and the Carribean hub of the Feminist AI Research Network (aka, f&lt;A+i&gt;r). Second, we talk about a project that uses Natural Langugae Processing for the de-identification of electronic health records in collaboration with La Rioja province in Argentina. Finally, we will describe a project applied to agroecological vegetable gardens in Patagonia. This talk will sythesize reflections about the practicalities and the ethical considerations of applying ML. We will also include our lessons learned from collaborating with other researchers based in Latin America and the Carribean.</p>
+  <p align='justify'>On-device Machine Learning applications provide a wealth of opportunities for sensing and analytics, particularly when cloud connectivity is not always readily available. Making these applications more energy-efficient and private can reduce their reliance on batteries and/or excessive data collection. Solutions in this space would have significant implications for a new generation of sensing and monitoring applications for environmental monitoring, population-wide analytics, scientific exploration, and climate/weather prediction. In this talk I will provide an overview of recent attempts in this space, and challenges ahead for providing reliable, secure, and private client-side applications.</p>
 </div>
 </div>
 
