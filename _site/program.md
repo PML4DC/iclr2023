@@ -1,5 +1,6 @@
 
-## Tentative program outline
+## Program Outline 
+<b>(Tentative)</b> 
 
 - Welcome Remarks
 
@@ -22,9 +23,9 @@
 
 - Invited Talk 2: Luciana Benotti
 <div>
-<button type="button" class="collapsible"></button>
+<button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
 <div class="content">
-  <p>TBA</p>
+  <p>In this talk, we highlight the challenges of three practical machine learning(ML) projects conducted by researchers in Argentina. First, we present our collaboration with the Latinamerican and the Carribean hub of the Feminist AI Research Network (aka, f&lt;A+i&gt;r). Second, we talk about a project that uses Natural Langugae Processing for the de-identification of electronic health records in collaboration with La Rioja province in Argentina. Finally, we will describe a project applied to agroecological vegetable gardens in Patagonia. This talk will sythesize reflections about the practicalities and the ethical considerations of applying ML. We will also include our lessons learned from collaborating with other researchers based in Latin America and the Carribean.</p>
 </div>
 </div>
 
@@ -48,9 +49,9 @@
 
 - Invited Talk 4: Kush R. Varshney
 <div>
-<button type="button" class="collapsible"></button>
+<button type="button" class="collapsible">Carative AI</button>
 <div class="content">
-  <p>TBA</p>
+  <p>Nursing is centered on the theory and practice of caring. Caring goes well beyond caring to bring patients to health. It starts with respect and equanimity that is achieved by respecting the values of all patients, even if they are different from yours, and treating patients as they are. Taking inspiration from nursing, in this talk, I will discuss how a carative approach to AI should start with the real-world problem as experienced by the most vulnerable, listening to and understanding their values, meeting them where they are, working toward a solution to their problem all the way to the end (even if it involves a lot of grunt work and doesn't lead to an ICLR paper), and conducting a qualitative assessment of the entire solution by interviewing the affected communities. </p>
 </div>
 </div>
 
