@@ -41,9 +41,9 @@
 
 - Invited Talk 3: <i>Raesetje Sefala</i>
 <div>
-<button type="button" class="collapsible"></button>
+<button type="button" class="collapsible">How else can we think about creating ground truth datasets to answer research questions?</button>
 <div class="content">
-  <p>TBA</p>
+  <p align='justify'>The insufficiency of ground truth data is usually a barrier when researchers are trying to train machine learning models for real-world applications. In this talk I will be discussing some of the computer vision applications I have worked on in the past, discussing some interesting techniques as well as lessons learned while creating ground truth labels in order to answer research questions around ways to study the effects of Spatial Apartheid in South Africa.</p>
 </div>
 </div>
 
