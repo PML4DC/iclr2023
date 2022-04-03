@@ -46,9 +46,9 @@
 </div>
 </div>
 
-- <p>Lunch Break + Poster Session<i> (12:20 - 12:40pm, ET)</i></p>
+- Lunch Break + Poster Session<i> (12:20 - 12:40pm, ET)</i>
 
-- <p>Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm, ET)</i></p> 
+- Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm, ET)</i>
 <div>
 <button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
 <div class="content">
@@ -56,7 +56,7 @@
 </div>
 </div>
 
-- <p><b>Contributed Talks</b><i> (13:15 - 14:30pm, ET)</i></p>
+- <b>Contributed Talks</b><i> (13:15 - 14:30pm, ET)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
@@ -67,9 +67,9 @@
  <p align='justify'> <b>Barriers and opportunities to improve renal outcomes in South Africa using AI technology for pediatric ultrasound interpretation.</b> <i> Lauren Erdman, Karen Milford, Zubrina Solomon, Mandy Rickard, Armando Lorenzo, Andrew Grieve, Anna Goldenberg</i></p>
 </div>
 </div>
-- <p>Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm, ET)</i></p>
+- Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm, ET)</i>
 
-- <p>Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm, ET)</i></p>
+- Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm, ET)</i>
 <div>
 <button type="button" class="collapsible">Carative AI</button>
 <div class="content">
