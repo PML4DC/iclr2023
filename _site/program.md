@@ -2,9 +2,17 @@
 ## Program Outline 
 <b>(Tentative)</b> 
 
-- Welcome Remarks
+- Welcome Remarks (9:00 - 9:10am, ET)
 
-- Invited Talk 1: <i>Hamed Haddadi</i>
+- <p>Keynote Speaker 1: <i><b>Raesetje Sefala</b> (9:10 - 9:45am, ET)</i></p>
+<div>
+<button type="button" class="collapsible">How else can we think about creating ground truth datasets to answer research questions?</button>
+<div class="content">
+  <p align='justify'>The insufficiency of ground truth data is usually a barrier when researchers are trying to train machine learning models for real-world applications. In this talk I will be discussing some of the computer vision applications I have worked on in the past, discussing some interesting techniques as well as lessons learned while creating ground truth labels in order to answer research questions around ways to study the effects of Spatial Apartheid in South Africa.</p>
+</div>
+</div>
+
+- <p>Keynote Speaker 2: <i><b>Hamed Haddadi</b> (9:45 - 10:20am, ET)</i></p>
 <div>
 <button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
 <div class="content">
@@ -12,16 +20,35 @@
 </div>
 </div>
 
-- Contributed Talks I
+- <p>Panel Discussion: <b>Data-centric and Trustworthy AI for limited resource settings</b><i>(10:20 - 11:20am, ET)</i></p>
+<div>
+<!--<button type="button" class="collapsible">Abstract</button>
+<div class="content">
+  <p align='justify'> More details coming soon</p>
+</div>
+-->
+<button type="button" class="collapsible">Panelists</button>
+<div class="content">
+  <li align='justify'> Xiaorong Ding, <i> University of Electronic Science and Technology of China</i></li>
+  <li align='justify'> Jigar Doshi, <i> WADHWANI AI</i></li>
+  <li align='justify'> Amara Kenza, <i> ETH Zürich</i></li>
+  <li align='justify'> Sebastain Schelter, <i> University of Amsterdam</i></li>
+  <li align='justify'> Reinhard Scholl, <i> International Telecommunication Union (ITU)</i></li>
+</div>
+</div>
+
+
+- <p><b>Poster Session</b><i> (11:20 - 12:20pm, ET)</i></p>
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
-  <p align='justify'>TBA</p>
+  <p align='justify'> More details coming soon</p>
 </div>
 </div>
-- Coffee Break + Poster Session I
 
-- Invited Talk 2: <i>Luciana Benotti</i>
+- <p>Lunch Break + Poster Session<i> (12:20 - 12:40pm, ET)</i></p>
+
+- <p>Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm, ET)</i></p> 
 <div>
 <button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
 <div class="content">
@@ -29,25 +56,20 @@
 </div>
 </div>
 
-- Contributed Talks II
+- <p><b>Contributed Talks</b><i> (13:15 - 14:30pm, ET)</i></p>
 <div>
-<button type="button" class="collapsible"></button>
+<button type="button" class="collapsible">More details</button>
 <div class="content">
-  <p align='justify'>TBA</p>
+  <p align='justify'> <b>Encoding Upper Nasal Airway Structure with U-Net for respiratory healthcare applications.</b> <i>  Bruno Pazos, Pablo Navarro, Soledad De Azevedo, Claudio Delrieux, Rolando González-José</i></p>
+ <p align='justify'> <b>Detecting landfills using multi-spectral satellite images and deep learning methods.</b><i>Anupama Rajkumar</i></p>
+ <p align='justify'><b>Surrogate Ensemble Forecasting for Dynamic Climate Impact Models.</b><i> Julian Kuehnert, Deborah McGlynn, Sekou L. Remy, Anne Jones, Aisha Walcott-Bryant</i></p>
+ <p align='justify'> <b>Why So Inflammatory? Explainability in Automatic Detection of Inflammatory Users</b><i>Cuong Nguyen, Daniel Nkemelu, Michael Best, Ankit Mehta </i></p>
+ <p align='justify'> <b>Barriers and opportunities to improve renal outcomes in South Africa using AI technology for pediatric ultrasound interpretation.</b> <i> Lauren Erdman, Karen Milford, Zubrina Solomon, Mandy Rickard, Armando Lorenzo, Andrew Grieve, Anna Goldenberg</i></p>
 </div>
 </div>
+- <p>Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm, ET)</i></p>
 
-- Lunch Break + Poster Session II
-
-- Invited Talk 3: <i>Raesetje Sefala</i>
-<div>
-<button type="button" class="collapsible"></button>
-<div class="content">
-  <p>TBA</p>
-</div>
-</div>
-
-- Invited Talk 4: <i>Kush R. Varshney</i>
+- <p>Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm, ET)</i></p>
 <div>
 <button type="button" class="collapsible">Carative AI</button>
 <div class="content">
@@ -55,18 +77,7 @@
 </div>
 </div>
 
-- Contributed Talks III
-<div>
-<button type="button" class="collapsible"></button>
-<div class="content">
-  <p>TBA</p>
-</div>
-</div>
-
-
-- Panel Discussion: TBA
-
-- Closing Remarks
+- <p>Closing Remarks<i> (15:35 - 15:45pm, ET)</i></p>
 
 
 <script>
