@@ -28,6 +28,8 @@ body { color: #2e2d2d; }
 
 .navactive { background-color: #1C8BE2; color: white; }
 
+.panelists { display: flex; align-items: center; justify-content: space-around; text-align: left; }
+
 .headshotbox { margin: 10px 15px 0px 0px; display: flex; align-items: top; }
 
 .headshot { width: 200px; height: 200px; display: block; padding: 10px; }

@@ -74,5 +74,52 @@ Dr. Varshney is a distinguished research staff member and manager with IBM Resea
 He self-published a book entitled <a href="http://www.trustworthymachinelearning.com/" target='_blank'>'Trustworthy Machine Learning'</a> in 2021. He is a senior member of the IEEE.
   </p>
  </div>
-  
+ </div>
+
+## Panelists
+
+<div class="panelists">
+
+<div>
+  <div class="iblock headshotbox"> 
+  <img src="{{basepath}}/images/speakers/kenza.jpg" class="headshot"  alt="picture of Kenza">
+  </div>
+  <div class="iblock headshotname">Amara Kenza</div>
+  <p><a href="https://ai.ethz.ch/people/kenza-amara.html" class="headshotaffiliation" target="_blank">ETH Zurich</a></p>
 </div>
+<div>
+  <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/xiaorong.jpg" class="headshot"  alt="picture of Xiarong"></p>
+  </div>
+  <div class="iblock headshotname">Prof. Ding Xiaorong </div>
+  <p><a href="https://faculty.uestc.edu.cn/xiaorongding" class="headshotaffiliation" target="_blank">University of Electronic Science and Technology of China</a></p>
+</div>
+
+</div>
+
+<div class="panelists">
+
+<div>
+  <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/jigar.jpg" class="headshot"  alt="picture of Jigar"></p>
+  </div>
+  <div class="iblock headshotname">Dr. Jigar Doshi</div>
+  <p><a href="https://www.jigarkdoshi.com/" class="headshotaffiliation" target="_blank">Wadhwani AI</a></p>
+</div>
+<div>
+   <div class="iblock headshotbox"> 
+   <p><img src="{{basepath}}/images/speakers/reinhard.jpg" class="headshot"  alt="picture of Reinhard"></p>
+   </div>
+   <div class="iblock headshotname">Dr. Reinhard Scholl</div>
+   <p><a href="https://www.itu.int/en/ITU-T/wtsa12/Pages/gss/session04/Reinhard-SCHOLL.aspx" class="headshotaffiliation" target="_blank">ITU-T Secretariat</a></p>
+ </div>
+<div>
+  <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/sebastian.jpg" class="headshot"  alt="picture of Sebastian"></p>
+  </div>
+  <div class="iblock headshotname">Prof. Sebastian Schelter</div>
+  <p><a href="https://ssc.io/" class="headshotaffiliation" target="_blank">University of Amsterdam</a></p>
+</div>
+
+</div>
+

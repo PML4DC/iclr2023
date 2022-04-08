@@ -20,7 +20,7 @@
 </div>
 </div>
 
-- <p>Panel Discussion: <b>Data-centric and Trustworthy AI for limited resource settings</b><i>(10:20 - 11:20am, ET)</i></p>
+- <p>Panel Discussion: <b>Data-centric and Trustworthy AI for limited resource settings </b><i>(10:20 - 11:20am, ET)</i></p>
 <div>
 <!--<button type="button" class="collapsible">Abstract</button>
 <div class="content">
@@ -50,9 +50,9 @@
 
 - Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm, ET)</i>
 <div>
-<button type="button" class="collapsible">Applied Machine Learning in Argentina</button>
+<button type="button" class="collapsible">Machine Learning in Argentina: Challenges, coping mechanisms, and ethics</button>
 <div class="content">
-  <p>In this talk, we highlight the challenges of three practical machine learning(ML) projects conducted by researchers in Argentina. First, we present our collaboration with the Latinamerican and the Carribean hub of the Feminist AI Research Network (aka, f&lt;A+i&gt;r). Second, we talk about a project that uses Natural Langugae Processing for the de-identification of electronic health records in collaboration with La Rioja province in Argentina. Finally, we will describe a project applied to agroecological vegetable gardens in Patagonia. This talk will sythesize reflections about the practicalities and the ethical considerations of applying ML. We will also include our lessons learned from collaborating with other researchers based in Latin America and the Carribean.</p>
+  <p> I organized this talk around some challenges that my colleagues and I face as Argentinean researchers and some of the coping mechanisms that we use. I also relate these coping mechanisms to general ethical principles for the international community. My talk is based on the assumption that machine learning research needs researchers from all over the world if the goal is to develop products that are beneficial for the whole world (and not only for some part of it). I will show that the research community in natural language processing is far from including georgraphically diverse researchers. I close this talk with my proposal as the first Latin American chair in the chapter of the Association for Computational Linguistics that serves the American continent, which was created in 1999.</p>
 </div>
 </div>
 

@@ -85,7 +85,12 @@ body{
     background-color: #1C8BE2;
     color: white;
 }
-
+.panelists {
+  display: flex; 
+  align-items: center; 
+  justify-content: space-around; 
+  text-align: left;
+}
 .headshotbox{
     margin: 10px 15px 0px 0px;
     //max-width: 210px;
