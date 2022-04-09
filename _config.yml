@@ -15,6 +15,6 @@ navigation:
 - text: PROGRAM
   url: /program.html
 - text: PAPERS
-  url: papers.html
+  url: /papers.html
 - text: ORGANIZERS
   url: /organizers.html
