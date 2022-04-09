@@ -22,15 +22,10 @@
 
 - <p>Panel Discussion: <b>Data-centric and Trustworthy AI for limited resource settings </b><i>(10:20 - 11:20am, ET)</i></p>
 <div>
-<!--<button type="button" class="collapsible">Abstract</button>
-<div class="content">
-  <p align='justify'> More details coming soon</p>
-</div>
--->
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
   <li align='justify'> Xiaorong Ding, <i> University of Electronic Science and Technology of China</i></li>
-  <li align='justify'> Jigar Doshi, <i> WADHWANI AI</i></li>
+  <li align='justify'> Jigar Doshi, <i> Wadhwani AI</i></li>
   <li align='justify'> Amara Kenza, <i> ETH Zürich</i></li>
   <li align='justify'> Sebastain Schelter, <i> University of Amsterdam</i></li>
   <li align='justify'> Reinhard Scholl, <i> International Telecommunication Union (ITU)</i></li>
@@ -42,7 +37,7 @@
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
-  <p align='justify'> More details coming soon</p>
+ <p align='justify'> <a href='https://pml4dc.github.io/iclr2022/papers.html'>Link </a> to the papers.</p>
 </div>
 </div>
 
@@ -60,6 +55,7 @@
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
+   <p align='justify'> <a href='https://pml4dc.github.io/iclr2022/papers.html'>Link </a> to the papers.</p>
   <p align='justify'> <b>Encoding Upper Nasal Airway Structure with U-Net for respiratory healthcare applications.</b> <i>  Bruno Pazos, Pablo Navarro, Soledad De Azevedo, Claudio Delrieux, Rolando González-José</i></p>
  <p align='justify'> <b>Detecting landfills using multi-spectral satellite images and deep learning methods.</b><i>Anupama Rajkumar</i></p>
  <p align='justify'><b>Surrogate Ensemble Forecasting for Dynamic Climate Impact Models.</b><i> Julian Kuehnert, Deborah McGlynn, Sekou L. Remy, Anne Jones, Aisha Walcott-Bryant</i></p>

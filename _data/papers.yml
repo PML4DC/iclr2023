@@ -1,0 +1,74 @@
+- title: Encoding Upper Nasal Airway Structure with U-Net for respiratory healthcare applications 
+  kind: spotlight
+  authors: Bruno A Pazos (CENPAT - CONICET); Pablo Navarro (CENPAT - CONICET); Soledad De Azevedo (CENPAT - CONICET); Claudio Delrieux (CONICET - UNS); Rolando González-José (CENPAT - CONICET)
+  id: 5
+
+- title: Detecting landfills using multi-spectral satellite images and deep learning methods (Spotlight)
+  kind: spotlight
+  authors: Anupama Rajkumar (SZTAKI); Andras Majdik (SZTAKI)
+  id: 9
+
+- title: Surrogate Ensemble Forecasting for Dynamic Climate Impact Models
+  kind: spotlight
+  authors: Julian Kuehnert (IBM Research); Deborah F McGlynn (Virginia Tech); Sekou L. Remy (IBM Research - Africa); Anne Jones (IBM Research); Aisha Walcott-Bryant (IBM Research - Africa)
+  id: 14
+
+- title: Why so Inflammatory? Explainability in Automatic Detection of Inflammatory Social Media Users
+  kind: spotlight
+  authors: Cuong V Nguyen (Georgia Institute of Technology); Daniel Nkemelu (Georgia Institute of Technology); Michael Best (Georgia Institute of Technology); Ankit Mehta (Georgia Institute of Technology)
+  id: 16
+
+- title: Barriers and opportunities to improve renal outcomes in South Africa using AI technology for pediatric ultrasound interpretation 
+  kind: spotlight
+  authors: Lauren Erdman (Hospital for Sick Children, University of Toronto); Karen Milford (Nelson Mandela Children's Hospital); Zubrina Solomon (Nelson Mandela Children's Hospital); Mandy Rickard (Hospital for Sick Children); Armando Lorenzo (Hospital for Sick Children); Andrew Grieve (Nelson Mandela Children's Hospital); Anna Goldenberg (Hospital for Sick Children, University of Toronto)
+  id: 20
+
+- title: Early Crop Type Classification with Satellite Imagery - An Empirical Analysis 
+  kind: poster
+  authors: Lukas Kondmann (German Aerospace Center); Sebastian Boeck (World Food Programme); Rogerio Bonifacio (World Food Programme ); Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
+  id: 3
+
+- title: AI-powered understanding of family planning behavioural change using the Fogg Model 
+  kind: poster
+  authors: Wuraola Oyewusi (Data Science Nigeria); Olubayo Adekanmbi (Data Science Nigeria); Mary Salami (Data Science Nigeria); David Oden (Data Science Nigeria); Amina Mardiyyah Rufai (Data Science Nigeria); Emmanuel Akeweje (Data Science Nigeria); Dominique Meekers (Tulane University); Olaniyi Olutola (DKT International); Chidinma Onuoha (DKT International); William Sambisa (Bill & Melinda Gates Foundation); Masduk Abdulkarim (Bill & Melinda Gates Foundation)
+  id: 7
+
+- title: What Should I Grow Today so I Make Money Tomorrow? Supporting Small Farmers’ Crop Planning with Social, Environmental, and Market Data 
+  kind: poster
+  authors: Aviva Prins (University of Maryland, College Park); Christine R Herlihy (University of Maryland, College Park); John P Dickerson (University of Maryland)
+  id: 8
+
+- title: "Detecting Respiratory Insufficiency by Voice Analysis: The X Project"
+  kind: poster
+  authors: Sandra Maria Aluísio (USP - University of São Paulo); Larissa Berti (UNESP); Augusto Camargo (USP); Arnaldo Candido Junior (Federal University of Technology - Parana); Edresson Casanova (University of São Paulo); Flaviane R. Fernandes Svartman (USP); Ricardo Corso Fernandes (UTFPR); Marcelo Finger (University of Sao Paulo); Alfredo Goldman (USP); Lucas Rafael Stefanel Gris (UTFPR); Pedro Leyton Pereira (USP); Anna Sara Shafferman Levin (USP); Marcelo Matheus Gauy (None); Marcelo Queiroz (); Beatriz Raposo de Medeiros (USP); Ester Sabino (USP); Daniel Peixoto Pinto da Silva (UTFPR)
+  id: 10
+
+- title: "KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation"
+  kind: poster
+  authors: Weijie Xu (Amazon); Xiaoyu Jiang (Amazon); Jay SERVICES Desai (AMAZON); Bin Han (University of Washington); Fuqin Yan (Amazon); Francis Iannacci (Amazon)
+  id: 11
+
+- title: "From MICCAI to AFRICAI: African Network for Artificial Intelligence in Biomedical Imaging"
+  kind: poster
+  authors: Karim Lekadir; Celia Cintas; Noussair Lazrak; Jihad Zahir; Tinashe Mutsvangwa; Mohammed El Hassouni; Mustafa Elattar; Islem Rekik; Madete June; Julia Schnabel; Yunusa Garba Mohammed
+  id: 12
+
+- title: Few-Shot Filtering for the Detection of Specialized Change in Remote Sensing
+  kind: poster
+  authors: Martin Hermann (Technical University of Munich); Sudipan Saha (Technical University of Munich); Xiaoxiang Zhu (Technical University of Munich)
+  id: 15
+
+- title: CHALLENGES OF INFERRING HIGH-RESOLUTION POVERTY MAPS WITH MULTIMODAL DATA
+  kind: poster
+  authors: Lisette E Espín Noboa (CEU & CSH); Janos Kertesz (CEU & CSH); Marton Karsai (CEU & RIM)
+  id: 17
+
+- title: "Frontiers in Diabetic Retinopathy Screening: Development of a Retinal Image Processing Pipeline"
+  kind: poster
+  authors: Christabel J Sitienei (Massachusetts Intitute of Technology)
+  id: 19
+
+- title: Attention-Free Keyword Spotting
+  kind: poster
+  authors: Mashrur M Morshed (Islamic University of Technology); Ahmad Omar Ahsan (Islamic University of Technology)
+  id: 22

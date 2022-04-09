@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="row">
+<p>All papers accepted for PML4DC 2022 workshop are listed below.</p>
+While the posters will be presented via <i>Gather.Town</t> (we will add the link here once ready), the spotlight presentations will be streamed via ICLR's <a href='https://iclr.cc/virtual/2022/workshop/4561' target='_blank'>virtual site</a> for the workshop (note that ICLR registration is required).
+</div>
+
+<table class="table table-striped">
+     <tr>
+          <th>Title</th>
+          <th>Presentation Type</th>
+          <th>Authors</th>
+          <th>PDFs</th>
+      </tr>
+{% for paper in site.data.papers %}
+<tr>
+<td>{{ paper.title }}</td> 
+<td>{{ paper.kind }}</td>
+<td><i>{{ paper.authors }}</i></td>
+<td><a href="/iclr2022/pdf/PML4DC_ICLR2022_{{ paper.id }}.pdf" target="_blank">pdf</a></td>
+
+
+</tr>
+{% endfor %}
+</table>
+
+</div>
+
+

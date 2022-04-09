@@ -14,5 +14,7 @@ navigation:
   layout: project
 - text: PROGRAM
   url: /program.html
+- text: PAPERS
+  url: papers.html
 - text: ORGANIZERS
   url: /organizers.html
