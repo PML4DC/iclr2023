@@ -20,7 +20,7 @@
 </div>
 </div>
 
-- <p>Panel Discussion: <b>Data-centric and Trustworthy AI for limited resource settings </b><i>(10:20 - 11:20am, ET)</i></p>
+- <p><b>Data-centric and Trustworthy AI for Limited Resource Settings </b><i>(10:20 - 11:20am, ET)</i></p>
 <div>
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
