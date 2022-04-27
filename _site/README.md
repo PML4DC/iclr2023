@@ -54,7 +54,7 @@ He studied for BEng/MSc/PhD at University College London and the University of C
 <br><br>
     
  <div class="iblock headshotname"> Raesetje Sefala </div>
- <p><a href="https://sefalab.github.io/" class="headshotaffiliation" target="_blank"> DAIR, USA</a></p>
+ <p><a href="https://sefalab.github.io/" class="headshotaffiliation" target="_blank"> DAIR, South Africa</a></p>
   <div class="iblock headshotbox"> 
  <p><img src="{{basepath}}/images/speakers/raesetje.jpg" class="headshot"  alt="picture of Raesetje"></p>
   <p align='justify'>
@@ -91,7 +91,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/xiaorong.jpg" class="headshot"  alt="picture of Xiarong"></p>
   </div>
-  <div class="iblock headshotname">Prof. Ding Xiaorong </div>
+  <div class="iblock headshotname">Prof. Xiaorong Ding </div>
   <p><a href="https://faculty.uestc.edu.cn/xiaorongding" class="headshotaffiliation" target="_blank">University of Electronic Science and Technology of China</a></p>
 </div>
 
