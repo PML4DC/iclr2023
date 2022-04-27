@@ -2,9 +2,9 @@
 ## Program Outline 
 <b>(Tentative)</b> 
 
-- Welcome Remarks (9:00 - 9:10am EDT / 13:00 - 13:10pm UTC)
+- Welcome Remarks (9:00 - 9:10am EDT or 13:00 - 13:10pm UTC)
 
-- <p>Keynote Speaker 1: <i><b>Raesetje Sefala</b> (9:10 - 9:45am EDT / 13:10 - 13:45pm UTC)</i></p>
+- <p>Keynote Speaker 1: <i><b>Raesetje Sefala</b> (9:10 - 9:45am EDT or 13:10 - 13:45pm UTC)</i></p>
 <div>
 <button type="button" class="collapsible">How else can we think about creating ground truth datasets to answer research questions?</button>
 <div class="content">
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-- <p>Keynote Speaker 2: <i><b>Hamed Haddadi</b> (9:45 - 10:20am EDT / 13:45 - 14:20pm UTC)</i></p>
+- <p>Keynote Speaker 2: <i><b>Hamed Haddadi</b> (9:45 - 10:20am EDT or 13:45 - 14:20pm UTC)</i></p>
 <div>
 <button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
 <div class="content">
@@ -20,7 +20,7 @@
 </div>
 </div>
 
-- <p><b>Data-centric and Trustworthy AI for Limited Resource Settings </b><i>(10:20 - 11:20am EDT / 14:20 - 15:20pm UTC)</i></p>
+- <p><b>Data-centric and Trustworthy AI for Limited Resource Settings </b><i>(10:20 - 11:20am EDT or 14:20 - 15:20pm UTC)</i></p>
 <div>
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
@@ -33,7 +33,7 @@
 </div>
 
 
-- <p><b>Poster Session</b><i> (11:20 - 12:20pm EDT / 15:20 - 16:20pm UTC)</i></p>
+- <p><b>Poster Session</b><i> (11:20 - 12:20pm EDT or 15:20 - 16:20pm UTC)</i></p>
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
@@ -41,9 +41,9 @@
 </div>
 </div>
 
-- Lunch Break + Poster Session<i> (12:20 - 12:40pm EDT / 16:20 - 16:40pm UTC)</i>
+- Lunch Break + Poster Session<i> (12:20 - 12:40pm EDT or 16:20 - 16:40pm UTC)</i>
 
-- Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm EDT / 16:40 - 17:15pm UTC)</i>
+- Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm EDT or 16:40 - 17:15pm UTC)</i>
 <div>
 <button type="button" class="collapsible">Machine Learning in Argentina: Challenges, coping mechanisms, and ethics</button>
 <div class="content">
@@ -51,7 +51,7 @@
 </div>
 </div>
 
-- <b>Contributed Talks</b><i> (13:15 - 14:30pm EDT / 17:15 - 18:30pm UTC)</i>
+- <b>Contributed Talks</b><i> (13:15 - 14:30pm EDT or 17:15 - 18:30pm UTC)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
@@ -63,9 +63,9 @@
  <p align='justify'> <b>Barriers and opportunities to improve renal outcomes in South Africa using AI technology for pediatric ultrasound interpretation.</b> <i> Lauren Erdman, Karen Milford, Zubrina Solomon, Mandy Rickard, Armando Lorenzo, Andrew Grieve, Anna Goldenberg</i></p>
 </div>
 </div>
-- Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm EDT / 18:30 - 19:00pm UTC)</i>
+- Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm EDT or 18:30 - 19:00pm UTC)</i>
 
-- Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm EDT / 19:00 - 19:35pm UTC)</i>
+- Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm EDT or 19:00 - 19:35pm UTC)</i>
 <div>
 <button type="button" class="collapsible">Carative AI</button>
 <div class="content">
@@ -73,7 +73,7 @@
 </div>
 </div>
 
-- <p>Closing Remarks<i> (15:35 - 15:45pm EDT / 19:00 - 19:35pm UTC)</i></p>
+- <p>Closing Remarks<i> (15:35 - 15:45pm EDT or 19:00 - 19:35pm UTC)</i></p>
 
 
 <script>
