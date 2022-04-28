@@ -79,6 +79,13 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
 ## Panelists
 
 <div class="panelists">
+<div>
+  <div class="iblock headshotbox"> 
+  <img src="{{basepath}}/images/speakers/issa.jpg" class="headshot"  alt="picture of Issa">
+  </div>
+  <div class="iblock headshotname">Issa Karambal</div>
+  <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
+</div>
 
 <div>
   <div class="iblock headshotbox"> 
@@ -87,6 +94,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotname">Amara Kenza</div>
   <p><a href="https://ai.ethz.ch/people/kenza-amara.html" class="headshotaffiliation" target="_blank">ETH Zurich</a></p>
 </div>
+
 <div>
   <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/xiaorong.jpg" class="headshot"  alt="picture of Xiarong"></p>
@@ -113,13 +121,6 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
    <div class="iblock headshotname">Dr. Reinhard Scholl</div>
    <p><a href="https://www.itu.int/en/ITU-T/wtsa12/Pages/gss/session04/Reinhard-SCHOLL.aspx" class="headshotaffiliation" target="_blank">ITU-T Secretariat</a></p>
  </div>
-<div>
-  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/sebastian.jpg" class="headshot"  alt="picture of Sebastian"></p>
-  </div>
-  <div class="iblock headshotname">Prof. Sebastian Schelter</div>
-  <p><a href="https://ssc.io/" class="headshotaffiliation" target="_blank">University of Amsterdam</a></p>
-</div>
 
 </div>
 
