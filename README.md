@@ -81,7 +81,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
 <div class="panelists">
 <div>
   <div class="iblock headshotbox"> 
-  <img src="{{basepath}}/images/speakers/issa.jpg" class="headshot"  alt="picture of Issa">
+  <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
   </div>
   <div class="iblock headshotname">Issa Karambal</div>
   <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
