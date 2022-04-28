@@ -77,16 +77,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
  </div>
 
 ## Panelists
-
 <div class="panelists">
-<div>
-  <div class="iblock headshotbox"> 
-  <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
-  </div>
-  <div class="iblock headshotname">Issa Karambal</div>
-  <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
-</div>
-
 <div>
   <div class="iblock headshotbox"> 
   <img src="{{basepath}}/images/speakers/kenza.jpg" class="headshot"  alt="picture of Kenza">
@@ -102,7 +93,6 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotname">Prof. Xiaorong Ding </div>
   <p><a href="https://faculty.uestc.edu.cn/xiaorongding" class="headshotaffiliation" target="_blank">University of Electronic Science and Technology of China</a></p>
 </div>
-
 </div>
 
 <div class="panelists">
@@ -114,6 +104,15 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotname">Dr. Jigar Doshi</div>
   <p><a href="https://www.jigarkdoshi.com/" class="headshotaffiliation" target="_blank">Wadhwani AI</a></p>
 </div>
+
+<div>
+  <div class="iblock headshotbox"> 
+  <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
+  </div>
+  <div class="iblock headshotname">Issa Karambal</div>
+  <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
+</div>
+
 <div>
    <div class="iblock headshotbox"> 
    <p><img src="{{basepath}}/images/speakers/reinhard.jpg" class="headshot"  alt="picture of Reinhard"></p>
