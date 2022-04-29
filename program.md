@@ -25,7 +25,6 @@
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
   <li align='justify'> Xiaorong Ding, <i> University of Electronic Science and Technology of China</i></li>
-  <li align='justify'> Jigar Doshi, <i> Wadhwani AI</i></li>
   <li align='justify'> Issa Karambal, <i> Quantum Leap Africa</i></li>
   <li align='justify'> Amara Kenza, <i> ETH Zürich</i></li>
   <li align='justify'> Reinhard Scholl, <i> International Telecommunication Union (ITU)</i></li>

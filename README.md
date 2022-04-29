@@ -99,14 +99,6 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
 
 <div>
   <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/jigar.jpg" class="headshot"  alt="picture of Jigar"></p>
-  </div>
-  <div class="iblock headshotname">Dr. Jigar Doshi</div>
-  <p><a href="https://www.jigarkdoshi.com/" class="headshotaffiliation" target="_blank">Wadhwani AI</a></p>
-</div>
-
-<div>
-  <div class="iblock headshotbox"> 
   <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
   </div>
   <div class="iblock headshotname">Issa Karambal</div>
