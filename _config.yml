@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
-description: "Practical ML for Developing Countries Workshop @ ICLR 2022, 
+description: "Practical ML for Developing Countries Workshop @ ICLR 2023, 
     <br/> Learning under limited/low resource scenarios.  Virtual"
-basepath: "iclr2022/"
+basepath: "iclr2023/"
 google_analytics: UA-156425047-1
 
 navigation:
@@ -12,9 +12,9 @@ navigation:
 - text: DATES
   url: /dates.html
   layout: project
-- text: PROGRAM
-  url: /program.html
-- text: PAPERS
-  url: /papers.html
+#- text: PROGRAM
+#  url: /program.html
+#- text: PAPERS
+#  url: /papers.html
 - text: ORGANIZERS
   url: /organizers.html
