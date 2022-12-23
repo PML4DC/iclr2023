@@ -58,6 +58,14 @@
         <div class="headshotname"> Waheeda Saib </div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=za-WSaib"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
+        
+    <div class="iblock organizerbox ">
+     <a target='_blank' href="https://mobile.twitter.com/luisoala">
+        <img src="{{basepath}}/images/organizers/luisoala.png" class="headshot" alt="picture of luis">
+      </a>
+        <div class="headshotname"> Luis Oala </div>
+        <a href="https://mobile.twitter.com/luisoala"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+    </div>
 </div>
 
 ## Advisors
