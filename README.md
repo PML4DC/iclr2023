@@ -19,6 +19,7 @@ The constant progress being made in machine learning needs to extend across bord
 
 Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-day event that has been running regularly for the past 3 years at ICLR (past events include <a href="https://pml4dc.github.io/iclr2020/" target="_blank">PML4DC 2020</a>, <a href="https://pml4dc.github.io/iclr2021/" target="_blank"> PML4DC 2021</a> and <a href="https://pml4dc.github.io/iclr2022/" target="_blank"> PML4DC 2022</a>). PML4DC aims to foster collaborations and build a cross-domain community by featuring invited talks, panel discussions, contributed presentations (oral and poster) and round-table mixers. 
 
+
 The main goal of PML4DC is to bring together researchers and practitioners (from academia, industry and government agencies) to reflect on aspects of designing, implementing, deploying and monitoring machine learning (ML) solutions that are typical in low resource environments across multiple sectors, such as healthcare, finance, agriculture, or education. Specifically, we encourage contributons that highlight issues related to:
 * Advances in algorithms and methods tailored for problems related with data-scarcity, imbalanced representations and limited computational resource
 *  Industry practices to scale-up ML solutions in low resource settings while balancing performance and latency tradeoffs
