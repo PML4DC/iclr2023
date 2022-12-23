@@ -41,17 +41,16 @@ Constraints introduced by low resource environments such as developing countries
 
 
 ### Submission Format and Link
-Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2022.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2022).
-[https://cmt3.research.microsoft.com/PML4DC2022](https://cmt3.research.microsoft.com/PML4DC2022). <!--https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index-->
+Contributions should be anonymized and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2023).
+[https://cmt3.research.microsoft.com/PML4DC2023](https://cmt3.research.microsoft.com/PML4DC2023). <!--https://cmt3.research.microsoft.com/ICLRWorkshops2022/Submission/Index-->
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
 
 ## Important Dates
 
-- Submissions deadline (Extended):         <s>March 6, 2022</s>
-- Notification:                 <s>March 25th, 2022</s> 
-- Camera ready:      		<s>April 4th, 2022</s>
-- Workshop:                     April 29th, 2022
+- Submissions deadline:        January 27th, 2023 
+- Notification:                 February 27th, 2023 
+- Camera ready:     		April 4th, 2023
+- Workshop:                     April 29th, 2023
 
 Deadlines are at 11:59 PM (Eastern Time, **ET**). **ET** is **UTC**-05:00.
-

@@ -1,7 +1,7 @@
-##  PML4DC @ <a target='_blank' href='https://iclr.cc/'> ICLR 2022</a>
+##  PML4DC @ <a target='_blank' href='https://iclr.cc/'> ICLR 2023</a>
 
 {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/iclr2022" %}
+        {% assign basepath = "/iclr2023" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
@@ -17,13 +17,14 @@
 The constant progress being made in artificial intelligence needs to extend across borders if we are to democratize AI in developing countries. Adapting the state-of-the-art (SOTA) methods to resource constrained environments such as developing countries, is challenging in practice. Recent breakthroughs in natural language processing (NLP), for instance, rely on increasingly complex and large models (e.g. most models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2) that are pre-trained on large corpus of unlabeled data. In most developing countries, low/limited resources makes the adoption of these breakthroughs harder. Methods such as transfer learning will not fully solve the problem either due to bias in pre-training datasets that do not reflect real test cases in developing countries as well as the prohibitive cost of fine-tuning these large models. This in turn, hinders the democratization of AI. 
 
 
-Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-day event that has been running regularly for the past 2 years in row at ICLR (past events include <a href="https://pml4dc.github.io/iclr2020/" target="_blank">PML4DC 2020</a> and <a href="https://pml4dc.github.io/iclr2021/" target="_blank"> PML4DC 2021</a>). PML4DC aims to foster collaborations and build a cross-domain community by featuring invited talks, panel discussions, contributed presentations (oral and poster) and round-table mixers. 
+Practical Machine Learning for Developing Countries (PML4DC) workshop is a full-day event that has been running regularly for the past 3 years in row at ICLR (past events include <a href="https://pml4dc.github.io/iclr2020/" target="_blank">PML4DC 2020</a>, <a href="https://pml4dc.github.io/iclr2021/" target="_blank"> PML4DC 2021</a> and <a href="https://pml4dc.github.io/iclr2022/" target="_blank"> PML4DC 2022</a>). PML4DC aims to foster collaborations and build a cross-domain community by featuring invited talks, panel discussions, contributed presentations (oral and poster) and round-table mixers. 
 
  The main goal of PML4DC is to bring together researchers and practitioners (from academia, industry and government agencies) to reflect on aspects of designing, implementing, deploying and monitoring machine learning (ML) solutions that are typical in low resource environments across multiple sectors, such as healthcare, finance, agriculture, education and natural language processing. Specifically, we encourage contributons that highlight issues related to:
 * Advances in algorithms and methods tailored for problems related with data-scarcity, imbalanced representations and limited computational resource
 *  Industry practices to scale-up ML solutions in low resource settings while balancing performance and latency tradeoffs
 * Societal and policy impacts of ML solutions in developing countries obtained via pilot studies, qualitative research, and human-in-the-loop settings.
 
+<!--
 ## Keynote Speakers
 <div>
 
@@ -77,9 +78,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
  </div>
 
 ## Panelists
-
 <div class="panelists">
-
 <div>
   <div class="iblock headshotbox"> 
   <img src="{{basepath}}/images/speakers/kenza.jpg" class="headshot"  alt="picture of Kenza">
@@ -87,6 +86,7 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotname">Amara Kenza</div>
   <p><a href="https://ai.ethz.ch/people/kenza-amara.html" class="headshotaffiliation" target="_blank">ETH Zurich</a></p>
 </div>
+
 <div>
   <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/xiaorong.jpg" class="headshot"  alt="picture of Xiarong"></p>
@@ -94,18 +94,18 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
   <div class="iblock headshotname">Prof. Xiaorong Ding </div>
   <p><a href="https://faculty.uestc.edu.cn/xiaorongding" class="headshotaffiliation" target="_blank">University of Electronic Science and Technology of China</a></p>
 </div>
-
 </div>
 
 <div class="panelists">
 
 <div>
   <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/jigar.jpg" class="headshot"  alt="picture of Jigar"></p>
+  <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
   </div>
-  <div class="iblock headshotname">Dr. Jigar Doshi</div>
-  <p><a href="https://www.jigarkdoshi.com/" class="headshotaffiliation" target="_blank">Wadhwani AI</a></p>
+  <div class="iblock headshotname">Issa Karambal</div>
+  <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
 </div>
+
 <div>
    <div class="iblock headshotbox"> 
    <p><img src="{{basepath}}/images/speakers/reinhard.jpg" class="headshot"  alt="picture of Reinhard"></p>
@@ -113,13 +113,6 @@ He self-published a book entitled <a href="http://www.trustworthymachinelearning
    <div class="iblock headshotname">Dr. Reinhard Scholl</div>
    <p><a href="https://www.itu.int/en/ITU-T/wtsa12/Pages/gss/session04/Reinhard-SCHOLL.aspx" class="headshotaffiliation" target="_blank">ITU-T Secretariat</a></p>
  </div>
-<div>
-  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/sebastian.jpg" class="headshot"  alt="picture of Sebastian"></p>
-  </div>
-  <div class="iblock headshotname">Prof. Sebastian Schelter</div>
-  <p><a href="https://ssc.io/" class="headshotaffiliation" target="_blank">University of Amsterdam</a></p>
 </div>
-
-</div>
+-->
 
