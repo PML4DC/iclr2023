@@ -78,7 +78,7 @@
         <a href="https://www.dair-institute.org/"  target='_blank' class="headshotaffiliation"> DAIR </a>
     </div>
 
-
+<!--
 ## Program Committee
 
 | Name          | Company/Institute |
@@ -105,6 +105,7 @@
 | Tejumade M Afonja |AI Saturdays Lagos |
 | Victor A Akinwande |Carnegie Mellon University |
 | Xiaorong Ding |University of Electronic Science and Technology of China |
+-->
 
 ## Contact
 
