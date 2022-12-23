@@ -15,7 +15,7 @@
     <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse">
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
       </a>
-        <div class="headshotname"> Girmaw Abebe </div>
+        <div class="headshotname"> Girmaw Abebe Tadesse</div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
 
