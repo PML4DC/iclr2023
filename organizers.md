@@ -27,13 +27,6 @@
         <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
     </div>
 
-     <div class="iblock organizerbox ">
-     <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas">
-        <img src="{{basepath}}/images/organizers/celia.jpg" class="headshot" alt="picture of Celia">
-      </a>
-        <div class="headshotname"> Celia Cintas </div>
-        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> IBM Research </a>
-    </div>
 
      <div class="iblock organizerbox "> 
      <a  target='_blank' href="https://www.linkedin.com/in/judy-gichoya-08195012/">
