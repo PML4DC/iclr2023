@@ -69,7 +69,7 @@
         
     <div class="iblock organizerbox ">
      <a target='_blank' href="https://twitter.com/AishaAlaagib">
-        <img src="{{basepath}}/images/organizers/aisha.png" class="headshot" alt="picture of luis">
+        <img src="{{basepath}}/images/organizers/Aisha.png" class="headshot" alt="picture of luis">
       </a>
         <div class="headshotname"> Aisha Alaagib </div>
         <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
