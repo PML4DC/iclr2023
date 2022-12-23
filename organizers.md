@@ -51,6 +51,9 @@
         <div class="headshotname"> Aisha Alaagib </div>
         <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
     </div>
+        
+</div>
+
 
 ## Advisors
 <div>
