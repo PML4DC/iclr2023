@@ -82,6 +82,9 @@
         <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> Addis Ababa University </a>
     </div>
         
+        
+</div>
+       
 
 <!--
      <div class="iblock organizerbox ">
@@ -91,6 +94,7 @@
         <div class="headshotname"> Celia Cintas </div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
+
 ## Program Committee
 
 | Name          | Company/Institute |
