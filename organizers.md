@@ -64,6 +64,7 @@
 </div>
 
 ## Advisors
+<div>
 
  <div class="iblock organizerbox ">
      <a   target='_blank' href="https://ai.stanford.edu/~tgebru/">
@@ -71,23 +72,25 @@
       </a>
         <div class="headshotname"> Timnit Gebru </div>
         <a href="https://www.dair-institute.org/"  target='_blank' class="headshotaffiliation"> DAIR </a>
-    </div>
+  </div>
 
-     <div class="iblock organizerbox "> 
+  <div class="iblock organizerbox "> 
      <a  target='_blank' href="https://www.linkedin.com/in/judy-gichoya-08195012/">
         <img src="{{basepath}}/images/organizers/judy.jpg" class="organizerheadshot" alt="picture of Judy">
       </a>
         <div class="headshotname"> Judy Gichoya </div>
         <a href="https://www.linkedin.com/in/judy-gichoya-08195012/"  target='_blank' class="headshotaffiliation"> Emory University</a>
-    </div>
+  </div>
     
-     <div class="iblock organizerbox ">
+  <div class="iblock organizerbox ">
      <a  target='_blank' href="https://www.linkedin.com/in/meareg-a-hailemariam/">
         <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
       </a>
         <div class="headshotname"> Meareg Hailemariam </div>
         <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> Addis Ababa University </a>
     </div>
+        
+
 <!--
 ## Program Committee
 
