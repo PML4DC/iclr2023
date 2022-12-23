@@ -1,6 +1,6 @@
 ## Call For Papers
 
-Constraints introduced by low resource environments such as developing countries (Africa, South East Asia, South America etc.) can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
+Resource constraints in developing countries can  necessitate alternatives to conventional machine learning approaches. We invite submissions that address the following and related topic areas:
 
 ### Algorithms and Methods 
 
@@ -19,7 +19,7 @@ Constraints introduced by low resource environments such as developing countries
 
 ### Social and Policy Topics 
 
-- Successful AI solution implementation stories which work at a small scale (e.g. local institution, city) that could be applied at larger scale.
+- Successful ML solution implementation stories which work at a small scale (e.g. local institution, city) that could be applied at larger scale.
 - Connecting skilled professionals with the organizations that deeply understand the local problems.
 - Securing funding for proof-of-concept (POC) projects or for scaling existing POCs.
 - Building effective research and implementation teams, with a focus on challenges specific to developing regions such as countries in Africa.
@@ -32,7 +32,7 @@ Constraints introduced by low resource environments such as developing countries
 - Short papers and position pieces (up to 5 pages)
 - Problem statements and abstracts (up to 2 page)
 
-- In addition, ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2020 or 2021. Please note that submissions are non-archival.
+- In addition, ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venues in 2021 or 2022. Please note that accepted papers at PML4DC are non-archival.
 
 ### Accepted Submissions
  - 5-page submissions will be _eligible_ for oral or poster presentation. 
