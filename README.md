@@ -41,7 +41,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <br><br>
 
  <div class="iblock headshotname"> Adji Bousso Dieng </div>
-  <p><a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Imperial College London & Brave Software, UK</a></p>
+  <p><a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Princeton University</a></p>
  <div class="iblock headshotbox"> 
   <p><img src="/images/speakers/adji.jpg" class="headshot" alt="picture of Hamed"></p>
   <p align ='justify'>
