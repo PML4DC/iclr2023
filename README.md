@@ -43,7 +43,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotname"> Adji Bousso Dieng </div>
   <p><a href="https://vertaix.princeton.edu/people/" class="headshotaffiliation" target="_blank">Princeton University</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="/images/speakers/adji.jpg" class="headshot" alt="picture of Adji"></p>
+  <p><img src="/images/speakers/Dieng_450x600.jpeg" class="headshot" alt="picture of Adji"></p>
   <p align ='justify'>
   Adji is assistant Professor of Computer Science at Princeton University where she lead Vertaix on research at the intersection of artificial intelligence and the natural sciences. She is affiliated with the High Meadows Environmental Institute (HMEI). She is also a Research Scientist at Google AI and the founder and President of the nonprofit The Africa I Know. She has been named an AI2050 Early Career Fellow by Schmidt Futures and the Annie T. Randall Innovator of 2022 for her research and advocacy by the American Statistical Association. She received her PhD from Columbia University where she was advised by David Blei and John Paisley. Her doctoral work received many recognitions, including a Google PhD Fellowship in Machine Learning, a rising star in Machine Learning nomination by the University of Maryland, and a Savage Award from the International Society for Bayesian Analysis, for her doctoral thesis. she hail from Kaolack, Senegal.
   </p>
