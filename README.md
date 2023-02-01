@@ -34,7 +34,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotbox"> 
   <p><img src="/images/speakers/kat.jpeg" class="headshot" alt="picture of Kat"></p>
   <p align='justify'>
-  Luciana is an Associate Professor at the Universidad Nacional de Córdoba in Argentina. She grew up in Patagonia, where she got her bachelor degree in Computer Science. Luciana lived in Europe while pursuing her graduate studies obtaining an Erasmus Mundus Masters joint degree by the universities of Bolzano and Madrid, and a PhD in Computer Science from the Université de Lorraine. Her research interests include dialogue systems, natural language grounded in vision, and the study of societal impacts of natural language processing (NLP). She currently serves as the chair of the executive board for the North American Association in Computational Linguistics (NAACL). At NAACL she is committed to lowering access barriers for minorities and to supporting policies towards the study of the societal impacts of NLP technologies.
+  TBD
   </p>
  </div>
 
