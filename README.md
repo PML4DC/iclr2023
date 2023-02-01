@@ -32,7 +32,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotname"> Kathleen Simunyu </div>
  <p><a href="https://benotti.github.io/" class="headshotaffiliation" target="_blank">Universidad Nacional de Córdoba, Argentina</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="/images/speakers/kat.jpg" class="headshot" alt="picture of Luciana"></p>
+  <p><img src="/images/speakers/kat.jpeg" class="headshot" alt="picture of Kat"></p>
   <p align='justify'>
   Luciana is an Associate Professor at the Universidad Nacional de Córdoba in Argentina. She grew up in Patagonia, where she got her bachelor degree in Computer Science. Luciana lived in Europe while pursuing her graduate studies obtaining an Erasmus Mundus Masters joint degree by the universities of Bolzano and Madrid, and a PhD in Computer Science from the Université de Lorraine. Her research interests include dialogue systems, natural language grounded in vision, and the study of societal impacts of natural language processing (NLP). She currently serves as the chair of the executive board for the North American Association in Computational Linguistics (NAACL). At NAACL she is committed to lowering access barriers for minorities and to supporting policies towards the study of the societal impacts of NLP technologies.
   </p>
@@ -43,7 +43,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotname"> Adji Bousso Dieng </div>
   <p><a href="https://haddadi.github.io/about/" class="headshotaffiliation" target="_blank">Princeton University</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="/images/speakers/adji.jpg" class="headshot" alt="picture of Hamed"></p>
+  <p><img src="/images/speakers/adji.jpg" class="headshot" alt="picture of Aji"></p>
   <p align ='justify'>
   Adji is assistant Professor of Computer Science at Princeton University where she lead Vertaix on research at the intersection of artificial intelligence and the natural sciences. She is affiliated with the High Meadows Environmental Institute (HMEI). She is also a Research Scientist at Google AI and the founder and President of the nonprofit The Africa I Know. She has been named an AI2050 Early Career Fellow by Schmidt Futures and the Annie T. Randall Innovator of 2022 for her research and advocacy by the American Statistical Association. She received her PhD from Columbia University where she was advised by David Blei and John Paisley. Her doctoral work received many recognitions, including a Google PhD Fellowship in Machine Learning, a rising star in Machine Learning nomination by the University of Maryland, and a Savage Award from the International Society for Bayesian Analysis, for her doctoral thesis. she hail from Kaolack, Senegal.
   </p>
