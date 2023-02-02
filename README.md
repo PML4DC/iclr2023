@@ -88,7 +88,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
         
 <div>
    <div class="iblock headshotbox"> 
-   <p><img src="{{basepath}}/images/speakers/timnit.jpeg" class="headshot"  alt="picture of Timnit"></p>
+   <p><img src="{{basepath}}/images/speakers/timit.jpeg" class="headshot"  alt="picture of Timnit"></p>
    </div>
    <div class="iblock headshotname">Timnit Gebru</div>
    <p><a href="https://www.dair-institute.org/about" class="headshotaffiliation" target="_blank">DAIR</a></p>
