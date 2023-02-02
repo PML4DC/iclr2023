@@ -40,6 +40,16 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
 
  <br><br>
 
+  <div class="iblock headshotname"> James Zou </div>
+ <p><a href="https://www.james-zou.com/" class="headshotaffiliation" target="_blank">Mozilla</a></p>
+ <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/james.jpeg" class="headshot" alt="picture of James"></p>
+  <p align='justify'>
+  James is Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. He works on making machine learning more reliable, human-compatible and statistically rigorous, and he especially interested in applications in human disease and health. Several of our algorithms are widely used in tech and biotech industries. He received a Ph.D from Harvard in 2014, and was a member of Microsoft Research, a Gates Scholar at Cambridge and a Simons fellow at UC Berkeley. He joined Stanford in 2016 and am excited to be a two-time Chan-Zuckerberg Investigator and the faculty director of the university-wide Stanford Data4Health hub. He also a member of the Stanford AI Lab. His research is supported by the Sloan Fellowship, the NSF CAREER Award, and Google, Amazon and Adobe AI awards. 
+  </p>
+ </div>
+
+ <br><br>
  <div class="iblock headshotname"> Adji Bousso Dieng </div>
   <p><a href="https://vertaix.princeton.edu/people/" class="headshotaffiliation" target="_blank">Princeton University</a></p>
  <div class="iblock headshotbox"> 
