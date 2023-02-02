@@ -73,26 +73,25 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
   <p><a href="https://twitter.com/asmelashteka" class="headshotaffiliation" target="_blank">Lesan</a></p>
 </div>
         
-<!--
+
 </div>
 
 <div class="panelists">
 
 <div>
   <div class="iblock headshotbox"> 
-  <img src="{{basepath}}/images/speakers/issa.png" class="headshot"  alt="picture of Issa">
+  <img src="{{basepath}}/images/speakers/paul.jpeg" class="headshot"  alt="picture of paul">
   </div>
-  <div class="iblock headshotname">Issa Karambal</div>
-  <p><a href="https://quantumleapafrica.org/person/dr-issa-karambal/#:~:text=Issa%20Karambal%20is%20the%20AIMS,at%20the%20Toronto%20Business%20School." class="headshotaffiliation" target="_blank">Quantum Leap Africa</a></p>
+  <div class="iblock headshotname">Paul Azunre</div>
+  <p><a href="https://www.azunre.com/" class="headshotaffiliation" target="_blank">Ghana NLP</a></p>
 </div>
-
+        
 <div>
    <div class="iblock headshotbox"> 
-   <p><img src="{{basepath}}/images/speakers/reinhard.jpg" class="headshot"  alt="picture of Reinhard"></p>
+   <p><img src="{{basepath}}/images/speakers/timnit.jpeg" class="headshot"  alt="picture of Timnit"></p>
    </div>
-   <div class="iblock headshotname">Dr. Reinhard Scholl</div>
-   <p><a href="https://www.itu.int/en/ITU-T/wtsa12/Pages/gss/session04/Reinhard-SCHOLL.aspx" class="headshotaffiliation" target="_blank">ITU-T Secretariat</a></p>
+   <div class="iblock headshotname">Timnit Gebru</div>
+   <p><a href="https://www.dair-institute.org/about" class="headshotaffiliation" target="_blank">DAIR</a></p>
  </div>
 </div>
--->
 
