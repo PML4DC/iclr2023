@@ -58,7 +58,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
 <div class="panelists">
 <div>
   <div class="iblock headshotbox"> 
-  <img src="{{basepath}}/images/speakers/jade.jpg" class="headshot"  alt="picture of Jade">
+  <img src="{{basepath}}/images/speakers/jade.jpeg" class="headshot"  alt="picture of Jade">
   </div>
   <div class="iblock headshotname">Jade Abbott</div>
   <p><a href="https://www.jabbott.io" class="headshotaffiliation" target="_blank">Retro Rabbit</a></p>
