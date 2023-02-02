@@ -7,4 +7,4 @@
 - Camera ready:     		April 4th, 2023
 - Workshop:                     May 5th, 2023
 
-Deadlines are at 11:59 PM AOE (**AOE**, anywhere on earth).
+Deadlines are at 11:59 PM AOE (**AOE** is anywhere on earth).
