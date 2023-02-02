@@ -34,7 +34,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/kat.jpeg" class="headshot" alt="picture of Kat"></p>
   <p align='justify'>
-  TBD
+  Kathleen is an Al Researcher who is Regional Coordinator of the Artificial Intelligence for Development - Africa Network, connecting African Al researchers, policymakers and practitioners through creating platforms for collaboration and access to resources. She has long-running experience working with Al communities on the African continent, including the Nairobi Women in Machine Learning and Data Science community as well as with the Deep Learning Indaba. Her own research involves natural language and speech processing for African languages as well as low-cost hardware robotics. She is currently a Masters student at the Georgia Institute of Technology undertaking the Online Masters in Computer Science with a specialization in Computational Perception and Robotics.
   </p>
  </div>
 
