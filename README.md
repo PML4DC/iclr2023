@@ -48,6 +48,17 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
   Adji is assistant Professor of Computer Science at Princeton University where she lead Vertaix on research at the intersection of artificial intelligence and the natural sciences. She is affiliated with the High Meadows Environmental Institute (HMEI). She is also a Research Scientist at Google AI and the founder and President of the nonprofit The Africa I Know. She has been named an AI2050 Early Career Fellow by Schmidt Futures and the Annie T. Randall Innovator of 2022 for her research and advocacy by the American Statistical Association. She received her PhD from Columbia University where she was advised by David Blei and John Paisley. Her doctoral work received many recognitions, including a Google PhD Fellowship in Machine Learning, a rising star in Machine Learning nomination by the University of Maryland, and a Savage Award from the International Society for Bayesian Analysis, for her doctoral thesis. she hail from Kaolack, Senegal.
   </p>
  </div>
+  
+  <br><br>
+
+ <div class="iblock headshotname"> Joshua Blumenstock </div>
+  <p><a href="https://www.jblumenstock.com/" class="headshotaffiliation" target="_blank">University of California, Berkeley</a></p>
+ <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/joshua.jpg" class="headshot" alt="picture of Joshua"></p>
+  <p align ='justify'>
+  Joshua Blumenstock is an Assistant Professor at the U.C. Berkeley School of Information. His research develops theory and methods for the analysis of large-scale behavioral data, with a focus on how such data can be used to better understand poverty and economic development. Recent projects combine field experiments with big spatiotemporal network data to model decision-making in poor and conflict-affected regions of the world. Prior to joining Berkeley, Joshua was on the faculty at the University of Washington, where he founded and co-directed the Data Science and Analytics Lab. He is a recipient of the Intel Faculty Early Career Honor, a Gates Millenium Grand Challenge award, a Google Faculty Research Award, and a former fellow of the Thomas J. Watson Foundation and the Harvard Institutes of Medicine.
+  </p>
+ </div>
   </div>
 
  
