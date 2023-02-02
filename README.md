@@ -64,14 +64,16 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
   <p><a href="https://www.jabbott.io" class="headshotaffiliation" target="_blank">Retro Rabbit</a></p>
 </div>
 
-<!--
+
 <div>
   <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/xiaorong.jpg" class="headshot"  alt="picture of Xiarong"></p>
+  <p><img src="{{basepath}}/images/speakers/teka.jpeg" class="headshot"  alt="picture of teka"></p>
   </div>
-  <div class="iblock headshotname">Prof. Xiaorong Ding </div>
-  <p><a href="https://faculty.uestc.edu.cn/xiaorongding" class="headshotaffiliation" target="_blank">University of Electronic Science and Technology of China</a></p>
+  <div class="iblock headshotname">Asmelash Teka Hadgu </div>
+  <p><a href="https://twitter.com/asmelashteka" class="headshotaffiliation" target="_blank">Lesan</a></p>
 </div>
+        
+<!--
 </div>
 
 <div class="panelists">
