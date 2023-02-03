@@ -41,7 +41,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <br><br>
 
   <div class="iblock headshotname"> James Zou </div>
- <p><a href="https://www.james-zou.com/" class="headshotaffiliation" target="_blank">Mozilla</a></p>
+ <p><a href="https://www.james-zou.com/" class="headshotaffiliation" target="_blank">Stanford University</a></p>
  <div class="iblock headshotbox"> 
   <p><img src="{{basepath}}/images/speakers/james.jpeg" class="headshot" alt="picture of James"></p>
   <p align='justify'>
