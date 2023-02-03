@@ -2,7 +2,7 @@
 
 ## Important Dates
 
-- Submissions deadline:        ~~January 27th, 2023~~ **extended to February 3, 2023**
+- Submissions deadline:        ~~January 27th, 2023~~ **extended to February 10, 2023**
 - Notification:                 February 27th, 2023 
 - Camera ready:     		April 4th, 2023
 - Workshop:                     May 5th, 2023
