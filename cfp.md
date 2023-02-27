@@ -49,7 +49,7 @@ We have also included a [brief guide on](formatting) how to use the CMT template
 ## Important Dates
 
 - Submissions deadline:        ~~January 27th, 2023~~ **extended to February 10, 2023**
-- Notification:                 February 27th, 2023 
+- Notification:                ~~ February 27th, 2023 **extended to March 2nd, 2023*
 - Camera ready:     		April 4th, 2023
 - Workshop:                     May 5th, 2023
 
