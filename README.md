@@ -32,9 +32,9 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotname"> Kathleen Simunyu </div>
  <p><a href="https://twitter.com/siminyu_kat" class="headshotaffiliation" target="_blank">Mozilla</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/kat.jpeg" class="headshot" alt="picture of Kat"></p>
+  <p><img src="{{basepath}}/images/speakers/kat.jpg" class="headshot" alt="picture of Kat"></p>
   <p align='justify'>
-  Kathleen is an Al Researcher who is Regional Coordinator of the Artificial Intelligence for Development - Africa Network, connecting African Al researchers, policymakers and practitioners through creating platforms for collaboration and access to resources. She has long-running experience working with Al communities on the African continent, including the Nairobi Women in Machine Learning and Data Science community as well as with the Deep Learning Indaba. Her own research involves natural language and speech processing for African languages as well as low-cost hardware robotics. She has a Masters student at the Georgia Institute of Technology undertaking the Online Masters in Computer Science with a specialization in Computational Perception and Robotics.
+  Kathleen Siminyu is an AI Researcher focused on Natural Language Processing for African Languages. She works at Mozilla Foundation as a Machine Learning Fellow to support the development of Kiswahili Speech Recognition. Kathleen is also currently part of a committee constituted by the African Union to develop an Artificial Intelligence continental strategy for Africa.  Before joining Mozilla, Kathleen was Regional Coordinator of AI4D Africa, where she worked with ML and AI communities in Africa to run various programs. One of these, a fellowship for African language dataset creation, led to the creation of over 15 African language datasets. For this work, Kathleen was listed as one of the MIT Technology Review 35 Innovators under 35 for 2022 <a href="https://www.technologyreview.com/innovator/kathleen-siminyu/" a>. She continues to organise communities as part of the Deep Learning Indaba and the Masakhane Research Foundation.
   </p>
  </div>
 
