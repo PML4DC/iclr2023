@@ -18,3 +18,5 @@ navigation:
 #  url: /papers.html
 - text: ORGANIZERS
   url: /organizers.html
+- text: ACCEPTED PAPERS
+  url: /accepted.html
