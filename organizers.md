@@ -15,7 +15,7 @@
     <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse">
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
       </a>
-        <div class="headshotname"> Girmaw Abebe </div>
+        <div class="headshotname"> Girmaw Abebe Tadesse</div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
 
@@ -27,29 +27,6 @@
         <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
     </div>
 
-     <div class="iblock organizerbox ">
-     <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas">
-        <img src="{{basepath}}/images/organizers/celia.jpg" class="headshot" alt="picture of Celia">
-      </a>
-        <div class="headshotname"> Celia Cintas </div>
-        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> IBM Research </a>
-    </div>
-
-     <div class="iblock organizerbox "> 
-     <a  target='_blank' href="https://www.linkedin.com/in/judy-gichoya-08195012/">
-        <img src="{{basepath}}/images/organizers/judy.jpg" class="organizerheadshot" alt="picture of Judy">
-      </a>
-        <div class="headshotname"> Judy Gichoya </div>
-        <a href="https://www.linkedin.com/in/judy-gichoya-08195012/"  target='_blank' class="headshotaffiliation"> Emory University</a>
-    </div>
-
-     <div class="iblock organizerbox ">
-     <a  target='_blank' href="https://www.linkedin.com/in/meareg-a-hailemariam/">
-        <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
-      </a>
-        <div class="headshotname"> Meareg Hailemariam </div>
-        <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> Addis Ababa University </a>
-    </div>
 
      <div class="iblock organizerbox ">
      <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=za-WSaib">
@@ -58,9 +35,28 @@
         <div class="headshotname"> Waheeda Saib </div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=za-WSaib"  target='_blank' class="headshotaffiliation"> IBM Research </a>
     </div>
+        
+    <div class="iblock organizerbox ">
+     <a target='_blank' href="https://mobile.twitter.com/luisoala">
+        <img src="/iclr2023/images/organizers/luis.jpg" class="headshot" alt="picture of luis">
+      </a>
+        <div class="headshotname"> Luis Oala </div>
+        <a href="https://mobile.twitter.com/luisoala"  target='_blank' class="headshotaffiliation"> Fraunhofer HHI </a>
+    </div>
+        
+    <div class="iblock organizerbox ">
+     <a target='_blank' href="https://twitter.com/AishaAlaagib">
+        <img src="/iclr2023/images/organizers/Aisha.jpg" class="headshot" alt="picture of luis">
+      </a>
+        <div class="headshotname"> Aisha Alaagib </div>
+        <a href="https://twitter.com/AishaAlaagib"  target='_blank' class="headshotaffiliation"> DFKI </a>
+    </div>
+        
 </div>
 
+
 ## Advisors
+<div>
 
  <div class="iblock organizerbox ">
      <a   target='_blank' href="https://ai.stanford.edu/~tgebru/">
@@ -68,8 +64,36 @@
       </a>
         <div class="headshotname"> Timnit Gebru </div>
         <a href="https://www.dair-institute.org/"  target='_blank' class="headshotaffiliation"> DAIR </a>
-    </div>
+  </div>
 
+  <div class="iblock organizerbox "> 
+     <a  target='_blank' href="https://www.linkedin.com/in/judy-gichoya-08195012/">
+        <img src="{{basepath}}/images/organizers/judy.jpg" class="organizerheadshot" alt="picture of Judy">
+      </a>
+        <div class="headshotname"> Judy Gichoya </div>
+        <a href="https://www.linkedin.com/in/judy-gichoya-08195012/"  target='_blank' class="headshotaffiliation"> Emory University</a>
+  </div>
+    
+  <div class="iblock organizerbox ">
+     <a  target='_blank' href="https://www.linkedin.com/in/meareg-a-hailemariam/">
+        <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
+      </a>
+        <div class="headshotname"> Meareg Hailemariam </div>
+        <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> Addis Ababa University </a>
+    </div>
+        
+        
+</div>
+       
+
+<!--
+     <div class="iblock organizerbox ">
+     <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas">
+        <img src="{{basepath}}/images/organizers/celia.jpg" class="headshot" alt="picture of Celia">
+      </a>
+        <div class="headshotname"> Celia Cintas </div>
+        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas"  target='_blank' class="headshotaffiliation"> IBM Research </a>
+    </div>
 
 ## Program Committee
 
@@ -97,7 +121,8 @@
 | Tejumade M Afonja |AI Saturdays Lagos |
 | Victor A Akinwande |Carnegie Mellon University |
 | Xiaorong Ding |University of Electronic Science and Technology of China |
+-->
 
 ## Contact
 
-Have questions about the conference? Email us at pml4dc [at] gmail [dot] com
+Have questions about the conference? Email us at pml4dc2023 [at] gmail [dot] com
