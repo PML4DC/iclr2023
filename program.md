@@ -64,11 +64,12 @@
 </div>
 - Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm EDT or 18:30 - 19:00pm UTC)</i>
 
-- Keynote Speaker 4: <i><b>Kush R. Varshney</b><i> (15:00 - 15:35pm EDT or 19:00 - 19:35pm UTC)</i>
+- Keynote Speaker 4: <i><b>Kathleen Simunyu</b><i> (15:00 - 15:35pm EDT or 19:00 - 19:35pm UTC)</i>
 <div>
-<button type="button" class="collapsible">Carative AI</button>
+<button type="button" class="collapsible"> Honoring Kiswahili with Technology and Community</button>
 <div class="content">
-  <p>Nursing is centered on the theory and practice of caring. Caring goes well beyond caring to bring patients to health. It starts with respect and equanimity that is achieved by respecting the values of all patients, even if they are different from yours, and treating patients as they are. Taking inspiration from nursing, in this talk, I will discuss how a carative approach to AI should start with the real-world problem as experienced by the most vulnerable, listening to and understanding their values, meeting them where they are, working toward a solution to their problem all the way to the end (even if it involves a lot of grunt work and doesn't lead to an ICLR paper), and conducting a qualitative assessment of the entire solution by interviewing the affected communities. </p>
+  <p>This talk gives an indepth look at Mozilla Common Voice’s Kiswahili work – an initiative to bring a vital language of East Africa online, and to make voice technology accessible to Kiswahili speakers. The talk will cover an introduction to the Mozilla Common Voice platform, community building, including how we have worked to address gender challenges and the inclusion of speakers of related dialects and variants of Kiswahili, the challenges and successes of building an open-source Kiswahili speech data set, the research questions we have explored along the model development roadmap and our efforts to disseminate and encourage the use of the resources created in this work.      
+ </p>
 </div>
 </div>
 
