@@ -16,7 +16,7 @@
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
       </a>
         <div class="headshotname"> Girmaw Abebe Tadesse</div>
-        <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Principal Research Science Manager, Microsoft, AI for Good Lab  </a>
+        <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Microsoft, AI for Good Lab  </a>
     </div>
 
     <div class="iblock organizerbox "> 
