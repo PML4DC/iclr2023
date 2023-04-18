@@ -20,14 +20,14 @@
 </div>
 </div>
 
-- <p><b>Data-centric and Trustworthy AI for Limited Resource Settings </b><i>(10:20 - 11:20am EDT or 14:20 - 15:20pm UTC)</i></p>
+- <p><b>NLP systems for low resource languages: hype vs reality </b><i>(10:20 - 11:20am EDT or 14:20 - 15:20pm UTC)</i></p>
 <div>
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
-  <li align='justify'> Xiaorong Ding, <i> University of Electronic Science and Technology of China</i></li>
-  <li align='justify'> Issa Karambal, <i> Quantum Leap Africa</i></li>
-  <li align='justify'> Amara Kenza, <i> ETH Zürich</i></li>
-  <li align='justify'> Reinhard Scholl, <i> International Telecommunication Union (ITU)</i></li>
+    <li align='justify'> Timnit Gebru, <i>DAIR</i></li>
+  <li align='justify'> Jade Abbott, <i>Retro Rabbit</i></li>
+  <li align='justify'> Asmelash Teka Hadgu, <i>Lesan</i></li>
+  <li align='justify'> Paul Azunre, <i>Ghana NLP</i></li>
 </div>
 </div>
 
