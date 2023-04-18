@@ -6,7 +6,7 @@
 
 - <p>Keynote Speaker 1: <i><b>	James Zou </b> (9:10 - 9:45am EDT or 13:10 - 13:45pm UTC)</i></p>
 <div>
-<button type="button" class="collapsible">: Data-centric ML for low resource settings</button>
+<button type="button" class="collapsible">Data-centric ML for low resource settings</button>
 <div class="content">
   <p align='justify'>We will present a data-centric framework for making machine learning more trustworthy in developing countries. We will discuss best practices for data in different stages of the ML pipeline: starting with how to design/curate datasets, followed by how to identify informative data for ML, and then how to audit and debug ML models to ensure reliable application in resource-limited scenarios.</p>
 </div>
