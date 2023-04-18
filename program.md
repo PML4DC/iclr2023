@@ -4,19 +4,19 @@
 
 - Welcome Remarks (9:00 - 9:10am EDT or 13:00 - 13:10pm UTC)
 
-- <p>Keynote Speaker 1: <i><b>Raesetje Sefala</b> (9:10 - 9:45am EDT or 13:10 - 13:45pm UTC)</i></p>
+- <p>Keynote Speaker 1: <i><b>	James Zou </b> (9:10 - 9:45am EDT or 13:10 - 13:45pm UTC)</i></p>
 <div>
-<button type="button" class="collapsible">How else can we think about creating ground truth datasets to answer research questions?</button>
+<button type="button" class="collapsible">: Data-centric ML for low resource settings</button>
 <div class="content">
-  <p align='justify'>The insufficiency of ground truth data is usually a barrier when researchers are trying to train machine learning models for real-world applications. In this talk I will be discussing some of the computer vision applications I have worked on in the past, discussing some interesting techniques as well as lessons learned while creating ground truth labels in order to answer research questions around ways to study the effects of Spatial Apartheid in South Africa.</p>
+  <p align='justify'>We will present a data-centric framework for making machine learning more trustworthy in developing countries. We will discuss best practices for data in different stages of the ML pipeline: starting with how to design/curate datasets, followed by how to identify informative data for ML, and then how to audit and debug ML models to ensure reliable application in resource-limited scenarios.</p>
 </div>
 </div>
 
-- <p>Keynote Speaker 2: <i><b>Hamed Haddadi</b> (9:45 - 10:20am EDT or 13:45 - 14:20pm UTC)</i></p>
+- <p>Keynote Speaker 2: <i><b>Adji Bousso Dieng</b> (9:45 - 10:20am EDT or 13:45 - 14:20pm UTC)</i></p>
 <div>
-<button type="button" class="collapsible">Private and Efficient On-Device Machine Learning</button>
+<button type="button" class="collapsible">TBD</button>
 <div class="content">
-  <p align='justify'>On-device Machine Learning applications provide a wealth of opportunities for sensing and analytics, particularly when cloud connectivity is not always readily available. Making these applications more energy-efficient and private can reduce their reliance on batteries and/or excessive data collection. Solutions in this space would have significant implications for a new generation of sensing and monitoring applications for environmental monitoring, population-wide analytics, scientific exploration, and climate/weather prediction. In this talk I will provide an overview of recent attempts in this space, and challenges ahead for providing reliable, secure, and private client-side applications.</p>
+  <p align='justify'>TBD.</p>
 </div>
 </div>
 
@@ -42,11 +42,11 @@
 
 - Lunch Break + Poster Session<i> (12:20 - 12:40pm EDT or 16:20 - 16:40pm UTC)</i>
 
-- Keynote Speaker 3: <i><b>Luciana Benotti</b><i> (12:40 - 13:15pm EDT or 16:40 - 17:15pm UTC)</i>
+- Keynote Speaker 3: <i><b>Joshua Blumenstock</b><i> (12:40 - 13:15pm EDT or 16:40 - 17:15pm UTC)</i>
 <div>
-<button type="button" class="collapsible">Machine Learning in Argentina: Challenges, coping mechanisms, and ethics</button>
+<button type="button" class="collapsible">Targeting Cash Transfers in Low-Resources Settings</button>
 <div class="content">
-  <p> I organized this talk around some challenges that my colleagues and I face as Argentinean researchers and some of the coping mechanisms that we use. I also relate these coping mechanisms to general ethical principles for the international community. My talk is based on the assumption that machine learning research needs researchers from all over the world if the goal is to develop products that are beneficial for the whole world (and not only for some part of it). I will show that the research community in natural language processing is far from including georgraphically diverse researchers. I close this talk with my proposal as the first Latin American chair in the chapter of the Association for Computational Linguistics that serves the American continent, which was created in 1999.</p>
+  <p> TBD</p>
 </div>
 </div>
 
