@@ -54,12 +54,9 @@
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
-   <p align='justify'> <a href='https://pml4dc.github.io/iclr2022/papers.html'>Link </a> to the papers.</p>
-  <p align='justify'> <b>Encoding Upper Nasal Airway Structure with U-Net for respiratory healthcare applications.</b> <i>  Bruno Pazos, Pablo Navarro, Soledad De Azevedo, Claudio Delrieux, Rolando González-José</i></p>
- <p align='justify'> <b>Detecting landfills using multi-spectral satellite images and deep learning methods.</b><i>Anupama Rajkumar</i></p>
- <p align='justify'><b>Surrogate Ensemble Forecasting for Dynamic Climate Impact Models.</b><i> Julian Kuehnert, Deborah McGlynn, Sekou L. Remy, Anne Jones, Aisha Walcott-Bryant</i></p>
- <p align='justify'> <b>Why So Inflammatory? Explainability in Automatic Detection of Inflammatory Users</b><i>Cuong Nguyen, Daniel Nkemelu, Michael Best, Ankit Mehta </i></p>
- <p align='justify'> <b>Barriers and opportunities to improve renal outcomes in South Africa using AI technology for pediatric ultrasound interpretation.</b> <i> Lauren Erdman, Karen Milford, Zubrina Solomon, Mandy Rickard, Armando Lorenzo, Andrew Grieve, Anna Goldenberg</i></p>
+   <p align='justify'> <a href='https://pml4dc.github.io/iclr2023/papers.html'>Link </a> to the papers.</p>
+  <p align='justify'> <b>Adaptive Representations for Semantic Search.</b> <i>  Aniket Rege, Aditya Kusupati, Sharan Ranjit S, Sham Kakade, Prateek Jain, Ali Farhadi (University of Washington, Allen Institue for AI, Apple)</i></p>
+ <p align='justify'> <b>MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training.</b><i>Krishnateja Killamsetty, Alexandre Evfimievski, Tejaswini Pedapati, Kiran Kate, Lucian Popa, Rishabh Iyer</i></p>
 </div>
 </div>
 - Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm EDT or 18:30 - 19:00pm UTC)</i>
