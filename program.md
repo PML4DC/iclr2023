@@ -43,16 +43,16 @@
 
 -  Coffee Break<i> (10:45 - 11:00 am CAT)</i>
 
-- Keynote Speaker 3: <i><b>Joshua Blumenstock</b><i> (12:40 - 13:15pm CAT or 16:40 - 17:15pm UTC)</i>
+- Keynote Speaker 3: <i><b>Adji</b><i> (11:00 - 11:30 am CAT)</i>
 <div>
-<button type="button" class="collapsible">Targeting Cash Transfers in Low-Resources Settings</button>
+<button type="button" class="collapsible">TBD</button>
 <div class="content">
   <p> TBD</p>
 </div>
 </div>
 
 
-- <p><b>Poster Session</b><i> (11:20 - 12:20pm CAT or 15:20 - 16:20pm UTC)</i></p>
+- <p><b>Virtual Poster Session</b><i> (11:30 - 12:30pm CAT)</i></p>
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
@@ -60,7 +60,7 @@
 </div>
 </div>
 
-- Lunch Break <i> (13:30 - 14:30 pm CAT)</i>
+- Lunch Break <i> (12:30 - 13:30 pm CAT)</i>
 
 
 - <p><b>NLP systems for low resource languages: hype vs reality </b><i>(13:30 - 14:30 CAT)</i></p>
@@ -77,27 +77,63 @@
 
 
 
-- <b>Contributed Talks</b><i> (13:15 - 14:30pm CAT or 17:15 - 18:30pm UTC)</i>
+- <b>Contributed Talks in-person</b><i> (14:45 - 15:00pm CAT)</i>
+<div>
+<button type="button" class="collapsible">More details</button>
+<div class="content">
+   <p align='justify'> <a href='https://pml4dc.github.io/iclr2023/papers.html'>Link </a> to the papers.</p>
+ <p align='justify'> <b>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning: Malte Ostendorff.</b><i>  </i></p>
+</div>
+</div>
+- <b>Contributed Talks virtual</b><i> (15:00 - 15:15 pm CAT)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
    <p align='justify'> <a href='https://pml4dc.github.io/iclr2023/papers.html'>Link </a> to the papers.</p>
   <p align='justify'> <b>Adaptive Representations for Semantic Search.</b> <i>  Aniket Rege, Aditya Kusupati, Sharan Ranjit S, Sham Kakade, Prateek Jain, Ali Farhadi (University of Washington, Allen Institue for AI, Apple)</i></p>
- <p align='justify'> <b>MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training.</b><i>Krishnateja Killamsetty, Alexandre Evfimievski, Tejaswini Pedapati, Kiran Kate, Lucian Popa, Rishabh Iyer</i></p>
 </div>
 </div>
-- Contributed Talks Q&A + Coffee Break<i> (14:30 - 15:00pm CAT or 18:30 - 19:00pm UTC)</i>
+  
 
-- Keynote Speaker 4: <i><b>Kathleen Simunyu</b><i> (15:00 - 15:35pm CAT or 19:00 - 19:35pm UTC)</i>
+  
+- Keynote Speaker 4: <i><b>Nakasi Rose</b><i> (15:15 - 15:45pm CAT o)</i>
 <div>
-<button type="button" class="collapsible"> Honoring Kiswahili with Technology and Community</button>
+<button type="button" class="collapsible">Automated Malaria Detection using Artificial Intelligence</button>
 <div class="content">
-  <p>This talk gives an indepth look at Mozilla Common Voice’s Kiswahili work – an initiative to bring a vital language of East Africa online, and to make voice technology accessible to Kiswahili speakers. The talk will cover an introduction to the Mozilla Common Voice platform, community building, including how we have worked to address gender challenges and the inclusion of speakers of related dialects and variants of Kiswahili, the challenges and successes of building an open-source Kiswahili speech data set, the research questions we have explored along the model development roadmap and our efforts to disseminate and encourage the use of the resources created in this work.      
+  <p>Malaria is one of the most significant endemic diseases in Sub-Saharan Africa. In Low
+developed countries (LDCs), the scourge is further bolstered by the lack of enough
+skilled lab technologists in health centers to accurately detect the disease using the
+widely accepted gold standard Microscopy method. Thus, the need for reliable
+detection interventions. This explains the birth of the Topic Group (TG), Automated
+malaria detection using Artificial Intelligence (AI). The aim is to harness AI to automate
+the detection of Malaria in a more fast, accurate, and cost-effective manner. Recently
+emerging technologies of AI and machine learning that can learn complex image
+patterns have been successful in different medical image analysis tasks and can
+improve public health. Therefore, the TG-Malaria under the ITU/WHO Focus Group AI
+for Health (FGAI4H) aims to develop a standardised benchmarking approach for AI
+based detection of Malaria. This involves all activities related to the curation of a quality
+dataset, development of AI models and approaches related to malaria detection,
+suggestions on scoring metrics, development of a benchmarking framework, and
+extension of the solution to improve disease surveillance and prediction.      
  </p>
 </div>
 </div>
 
-- <p>Closing Remarks<i> (15:35 - 15:45pm CAT or 19:00 - 19:35pm UTC)</i></p>
+- Coffee Break<i> (15:45 - 16:00 pm CAT)</i>
+- Poster in-person<i> (16:00 - 17:00 pm CAT)</i>
+  
+- Keynote Speaker 5: <i><b>James Zou </b><i> (17:00 - 17:30 pm CAT o)</i>
+<div>
+<button type="button" class="collapsible">TBD</button>
+<div class="content">
+  <p>TBD    
+ </p>
+</div>
+</div>
+
+
+
+- <p>Closing Remarks<i> (17:30 - 17:45pm CAT or 19:00 - 19:35pm UTC)</i></p>
 
 
 <script>
