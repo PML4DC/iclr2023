@@ -43,7 +43,7 @@
 
 -  Coffee Break<i> (10:45 - 11:00 am CAT)</i>
 
-- Keynote Speaker 3: <i><b>Adji</b><i> (11:00 - 11:30 am CAT)</i>
+- Keynote Speaker 3: <i><b>Adji Bousso Dieng</b><i> (11:00 - 11:30 am CAT)</i>
 <div>
 <button type="button" class="collapsible">TBD</button>
 <div class="content">
