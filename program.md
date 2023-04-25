@@ -82,7 +82,7 @@
 <button type="button" class="collapsible">More details</button>
 <div class="content">
    <p align='justify'> <a href='https://pml4dc.github.io/iclr2023/papers.html'>Link </a> to the papers.</p>
- <p align='justify'> <b>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning: Malte Ostendorff.</b><i>  </i></p>
+ <p align='justify'> <b>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning: Malte Ostendorff.</b><i>Ostendorff, Malte*; Rehm, Georg  </i></p>
 </div>
 </div>
 - <b>Contributed Talks virtual</b><i> (15:00 - 15:15 pm CAT)</i>
