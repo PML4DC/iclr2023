@@ -31,7 +31,7 @@
 </div>
 </div>
 
-- <b>Contributed Talks in-person presentation</b><i> (10:30 - 10:45 am CAT)</i>
+- <b>Contributed Talks virtual presentation</b><i> (10:30 - 10:45 am CAT)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
