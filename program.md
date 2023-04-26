@@ -2,9 +2,9 @@
 ## Program Outline 
 <b>(Tentative)</b> 
 
-- Welcome Remarks (9:00 - 9:10am CAT)
+- Welcome Remarks (9:00 - 9:15am CAT)
 
-- <p>Keynote Speaker 1: <i><b>	Kathleen Simunyu </b> (9:10 - 9:45am CAT )</i></p>
+- <p>Keynote Speaker 1: <i><b>	Kathleen Simunyu </b> (9:15 - 9:45am CAT )</i></p>
 <div>
 <button type="button" class="collapsible"> Honoring Kiswahili with Technology and Community</button>
 <div class="content">
@@ -96,7 +96,7 @@
   
 
   
-- Keynote Speaker 4: <i><b>Nakasi Rose</b><i> (15:15 - 15:45pm CAT o)</i>
+- Keynote Speaker 4: <i><b>Nakasi Rose</b><i> (15:15 - 15:45pm CAT)</i>
 <div>
 <button type="button" class="collapsible">Automated Malaria Detection using Artificial Intelligence</button>
 <div class="content">
@@ -122,18 +122,18 @@ extension of the solution to improve disease surveillance and prediction.
 - Coffee Break<i> (15:45 - 16:00 pm CAT)</i>
 - Poster in-person<i> (16:00 - 17:00 pm CAT)</i>
   
-- Keynote Speaker 5: <i><b>James Zou </b><i> (17:00 - 17:30 pm CAT o)</i>
+- Keynote Speaker 5: <i><b>James Zou </b><i> (17:00 - 17:30 pm CAT)</i>
 <div>
-<button type="button" class="collapsible">TBD</button>
+<button type="button" class="collapsible">Data-centric ML for low resource settings</button>
 <div class="content">
-  <p>TBD    
+  <p> We will present a data-centric framework for making machine learning more trustworthy in developing countries. We will discuss best practices for data in different stages of the ML pipeline: starting with how to design/curate datasets, followed by how to identify informative data for ML, and then how to audit and debug ML models to ensure reliable application in resource-limited scenarios.    
  </p>
 </div>
 </div>
 
 
 
-- <p>Closing Remarks<i> (17:30 - 17:45pm CAT or 19:00 - 19:35pm UTC)</i></p>
+- <p>Closing Remarks<i> (17:30 - 17:45pm CAT)</i></p>
 
 
 <script>
