@@ -2,9 +2,9 @@
 ## Program Outline 
 <b>(Tentative)</b> 
 
-- Welcome Remarks (9:00 - 9:15am CAT)
+- Welcome Remarks (9:00 - 9:15 am CAT)
 
-- <p>Keynote Speaker 1: <i><b>	Kathleen Simunyu </b> (9:15 - 9:45am CAT )</i></p>
+- <p>Keynote Speaker 1 (in-person): <i><b>	Kathleen Simunyu </b> (9:15 - 9:45 am CAT )</i></p>
 <div>
 <button type="button" class="collapsible"> Honoring Kiswahili with Technology and Community</button>
 <div class="content">
@@ -13,7 +13,7 @@
 </div>
 </div>
 
-- <p>Keynote Speaker 2: <i><b>Joshua Blumenstock</b> (9:45 - 10:15 am CAT )</i></p>
+- <p>Keynote Speaker 2 (virtual): <i><b>Joshua Blumenstock</b> (9:45 - 10:15 am CAT )</i></p>
 <div>
 <button type="button" class="collapsible">Targeting Cash Transfers in Low-Resources Settings</button>
 <div class="content">
@@ -43,7 +43,7 @@
 
 -  Coffee Break<i> (10:45 - 11:00 am CAT)</i>
 
-- Keynote Speaker 3: <i><b>Adji Bousso Dieng</b><i> (11:00 - 11:30 am CAT)</i>
+- Keynote Speaker 3 (in-person): <i><b>Adji Bousso Dieng</b><i> (11:00 - 11:30 am CAT)</i>
 <div>
 <button type="button" class="collapsible">TBD</button>
 <div class="content">
@@ -52,7 +52,7 @@
 </div>
 
 
-- <p><b>Virtual Poster Session</b><i> (11:30 - 12:30pm CAT)</i></p>
+- <p><b>Virtual Poster Session</b><i> (11:30 - 12:30 pm CAT)</i></p>
 <div>
 <button type="button" class="collapsible"></button>
 <div class="content">
@@ -63,7 +63,7 @@
 - Lunch Break <i> (12:30 - 13:30 pm CAT)</i>
 
 
-- <p><b>NLP systems for low resource languages: hype vs reality </b><i>(13:30 - 14:30 CAT)</i></p>
+- <p><b>NLP systems for low resource languages: hype vs reality </b><i>(13:30 - 14:30 pm CAT)</i></p>
 <div>
 <button type="button" class="collapsible">Panelists</button>
 <div class="content">
@@ -77,7 +77,7 @@
 
 
 
-- <b>Contributed Talks in-person</b><i> (14:45 - 15:00pm CAT)</i>
+- <b>Contributed Talks in-person presentation </b><i> (14:45 - 15:00 pm CAT)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
@@ -85,7 +85,7 @@
  <p align='justify'> <b>Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning: Malte Ostendorff.</b><i>Ostendorff, Malte*; Rehm, Georg  </i></p>
 </div>
 </div>
-- <b>Contributed Talks virtual</b><i> (15:00 - 15:15 pm CAT)</i>
+- <b>Contributed Talks virtual presentation</b><i> (15:00 - 15:15 pm CAT)</i>
 <div>
 <button type="button" class="collapsible">More details</button>
 <div class="content">
@@ -96,7 +96,7 @@
   
 
   
-- Keynote Speaker 4: <i><b>Nakasi Rose</b><i> (15:15 - 15:45pm CAT)</i>
+- Keynote Speaker 4 (in-person): <i><b>Nakasi Rose</b><i> (15:15 - 15:45 pm CAT)</i>
 <div>
 <button type="button" class="collapsible">Automated Malaria Detection using Artificial Intelligence</button>
 <div class="content">
