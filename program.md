@@ -43,11 +43,11 @@
 
 -  Coffee Break<i> (10:45 - 11:00 am CAT)</i>
 
-- Keynote Speaker 3 (in-person): <i><b>Adji Bousso Dieng</b><i> (11:00 - 11:30 am CAT)</i>
+- Keynote Speaker 3 (Virtual): <i><b>Adji Bousso Dieng</b><i> (11:00 - 11:30 am CAT)</i>
 <div>
-<button type="button" class="collapsible">TBD</button>
+<button type="button" class="collapsible">Measuring And Enforcing Diversity In Machine Learning</button>
 <div class="content">
-  <p> TBD</p>
+  <p>     Diversity is important for many areas of machine learning, including generative modeling, reinforcement learning, active learning, and dataset curation. Yet, little effort has gone into formalizing and understanding how to effectively measure or enforce diversity. This talk will describe the Vendi Score, a new metric for measuring diversity that connects and extends ideas from ecology and quantum mechanics. The Vendi Score is defined as the Shannon entropy of the eigenvalues of a user-defined similarity matrix. It is general in that (1) it can be applied to any domain where similarity can be defined and (2) it doesn't require defining a probability distribution over the collection to be evaluated for diversity. The Vendi Score can therefore be used to measure the diversity of datasets, samples from a generative model, outputs from decoding algorithms, or any collection for which we want to assess diversity. We will showcase the Vendi Score as a diversity evaluation metric in several domains and as a means to improve the exploration of molecular conformation spaces.</p>
 </div>
 </div>
 
