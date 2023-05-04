@@ -17,7 +17,7 @@
 <div>
 <button type="button" class="collapsible">Targeting Cash Transfers in Low-Resources Settings</button>
 <div class="content">
-  <p> TBD</p>
+  <p>  Targeting is a central challenge in the design of anti-poverty programs: given available data, how does one rapidly identify the individuals and families with the greatest need? This talk will discuss recent uses of machine learning, applied to non-traditional data from satellites and mobile phones, in the targeting of anti-poverty programs. It draws on results from several field-based projects -- in Togo, Afghanistan, Nigeria, and Kenya -- that illustrate the promise, as well as some of the potential pitfalls, of this new approach to targeting. Collectively, the results highlight the potential for new data sources to improve humanitarian response in low resource settings, particularly during crises and when traditional data are missing or out of date.</p>
 </div>
 </div>
 
