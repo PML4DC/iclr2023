@@ -12,11 +12,11 @@
        
 <div>
     <div class="iblock organizerbox ">
-    <a target='_blank' href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse">
+    <a target='_blank' href="https://www.microsoft.com/en-us/research/people/gtadesse/">
      <img src="{{basepath}}/images/organizers/girmaw.jpg" class="headshot" alt="picture of Girmaw">
       </a>
         <div class="headshotname"> Girmaw Abebe Tadesse</div>
-        <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse"  target='_blank' class="headshotaffiliation"> IBM Research </a>
+        <a href="https://www.microsoft.com/en-us/research/people/gtadesse/"  target='_blank' class="headshotaffiliation"> Microsoft, AI for Good Lab  </a>
     </div>
 
     <div class="iblock organizerbox "> 

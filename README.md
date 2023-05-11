@@ -65,9 +65,20 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
  <div class="iblock headshotname"> Joshua Blumenstock </div>
   <p><a href="https://www.jblumenstock.com/" class="headshotaffiliation" target="_blank">University of California, Berkeley</a></p>
  <div class="iblock headshotbox"> 
-  <p><img src="{{basepath}}/images/speakers/joshua.jpg" class="headshot" alt="picture of Joshua"></p>
+  <p><img src="{{basepath}}/images/speakers/jos.jpg" class="headshot" alt="picture of Joshua"></p>
   <p align ='justify'>
-  Joshua Blumenstock is a Chancellor’s Associate Professor at the U.C. Berkeley School of Information and the Goldman School of Public Policy. He is the Director of the Data-Intensive Development Lab and the co-Director of the Center for Effective Global Action. Blumenstock does research at the intersection of machine learning and empirical economics, and focuses on using novel data and methods to understand the causes and consequences of global poverty, and to improve the lives of disadvantaged people around the world. He has a Ph.D. in Information Science and a M.A. in Economics from U.C. Berkeley, and Bachelor’s degrees in Computer Science and Physics from Wesleyan University. He is a recipient of awards including the NSF CAREER award, the Intel Faculty Early Career Honor, and the U.C. Berkeley Chancellor's Award for Public Service. His work has appeared in general interest journals including Science, Nature, and Proceedings of the National Academy of Sciences, as well as top economics journals (e.g., the American Economic Review) and computer science conferences (e.g., ICML, KDD, AAAI, WWW, CHI).
+   Joshua Blumenstock is a Chancellor’s Associate Professor at the U.C. Berkeley School of Information and the Goldman School of Public Policy. He is the Co-director of the Global Policy Lab and the Center for Effective Global Action. Blumenstock does research at the intersection of machine learning and empirical economics, and focuses on applications of novel data to global poverty and inequality. He has a Ph.D. in Information Science and a M.A. in Economics from U.C. Berkeley, and Bachelor’s degrees in Computer Science and Physics from Wesleyan University. He is a recipient of awards including the NSF CAREER award, the Intel Faculty Early Career Honor, and the U.C. Berkeley Chancellor's Award for Public Service. His work has appeared in general interest journals including Science, Nature, and Proceedings of the National Academy of Sciences,as well as top economics journals (e.g., the American Economic Review) and computer science conferences (e.g., ICML, KDD, AAAI, WWW, CHI).
+  </p>
+ </div>
+ 
+   <br><br>
+
+ <div class="iblock headshotname">Rose Nakasi </div>
+  <p><a href="https://www.jblumenstock.com/" class="headshotaffiliation" target="_blank">Researcher, AI LAB, Makerere University</a></p>
+ <div class="iblock headshotbox"> 
+  <p><img src="{{basepath}}/images/speakers/Nakasi.jpg" class="headshot" alt="picture of Joshua"></p>
+  <p align ='justify'>
+  Rose Nakasi is a PhD Researcher of Computer Science at AI and Data Science Lab, Makerere University in Uganda as well as Chair for Topic Group AI-based detection of Malaria (TG-Malaria) at the ITU-Focus Group AI for Health (FGAI4H). Her research interests are in Artificial Intelligence and Data Science and particularly in the use of these for developing improved automated tools and techniques for diagnosis and prediction of Malaria in low resourced but highly endemic Countries.
   </p>
  </div>
   </div>
@@ -83,7 +94,7 @@ The main goal of PML4DC is to bring together researchers and practitioners (from
   <img src="{{basepath}}/images/speakers/jade.jpeg" class="headshot"  alt="picture of Jade">
   </div>
   <div class="iblock headshotname">Jade Abbott</div>
-  <p><a href="https://www.jabbott.io" class="headshotaffiliation" target="_blank">Retro Rabbit</a></p>
+  <p><a href="https://www.jabbott.io" class="headshotaffiliation" target="_blank">lelapa.ai</a></p>
 </div>
 
 
