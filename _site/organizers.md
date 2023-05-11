@@ -79,7 +79,7 @@
         <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
       </a>
         <div class="headshotname"> Meareg Hailemariam </div>
-        <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> Addis Ababa University </a>
+        <a href="https://www.linkedin.com/in/meareg-a-hailemariam/"  target='_blank' class="headshotaffiliation" alt="picture of Meareg"> University of California, Berkeley </a>
     </div>
         
         

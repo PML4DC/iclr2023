@@ -1,184 +1,184 @@
 - title: Automatic Speech Recognition for Amharic Language using Self-Supervised Learning Approach 
   kind: poster
   authors: Rosa Tsegaye Aga (EAII)
-  id: 1
+  id: 4
 
 - title: Towards Federated Learning Under Resource Constraints via Layer-wise Training and Depth Dropout
   kind: poster
   authors: Pengfei Guo (Johns Hopkins University); Warren R Morningstar (Google Research); Raviteja Vemulapalli (Apple); Karan Singhal (Google Research); Vishal Patel (Johns Hopkins University); Philip A Mansfield (Google)
-  id: 1
+  id: 5
 
 - title: Intermediate Task Fine-tuning of Sequence-Sequence Language Models with Auxiliary Domain Parallel Data for Low-resource NMT
   kind: poster
   authors: Shravan Nayak (Microsoft); Sarubi Thillainathan (University of Moratuwa); Surangika Ranathunga (University of Moratuwa); Rikki Hung (University of Toronto); Yining Wang (University of Toronto); Jonah Mackey (University of Toronto); Andrew Ho (University of Toronto); Anthony P Rinaldi (University of Toronto); En-Shiun Annie Lee (University of Toronto)
-  id: 1
+  id: 7
 
 - title: Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning
   kind: poster
   authors: Malte Ostendorff (German Research Center for Artificial Intelligence); Georg Rehm (DFKI)
-  id: 1
+  id: 8
 
 - title: Can an AI Win Ghana's National Science and Maths Quiz? An AI Grand Challenge for Education 
   kind: poster
   authors: George Boateng (ETH Zurich); Victor Kumbol (Kwame AI Inc); Elsie Effah Kaufmann (University of Ghana)
-  id: 1
+  id: 9
 
 - title: Fact-Checking Platform and Instant Local Call Alert System for Saving most Vulnerable, less Protected, and most affected Segment during Disaster using Crowdsourcing-powered Machine Learning application 
   kind: poster
   authors: Olubayo Adekanmbi (Data Science Nigeria)
-  id: 1
+  id: 11
 
 - title: "MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training" 
   kind: poster
   authors: Krishnateja Killamsetty (University of Texas at Dallas); Alexandre Evfimievski (IBM Research - Almaden); Tejaswini Pedapati (IBM Research); Kiran Kate (IBM Research); Lucian Popa (IBM Almaden Research Center); Rishabh Iyer (University of Texas at Dallas)
-  id: 1
+  id: 13
 
 - title: "ForecastPFN: Zero-Shot Low-Resource Forecasting" 
   kind: poster
   authors: Gurnoor S Khurana (Abacus AI); Samuel Dooley (University of Maryland); Siddartha V Naidu (Abacus.AI); Colin White (Abacus.AI)
-  id: 1
+  id: 14
 
 - title: Learning Translation Quality Evaluation on Low Resource Languages from Large Language Models
   kind: poster
   authors: Amirkeivan Mohtashami (EPFL); Mauro Verzetti (Google); Paul Rubenstein (MPI for Intelligent Systems Tuebingen)
-  id: 1
+  id: 15
 
 - title: Synthesizing Electronic Health Records for predictive models in LMICs
   kind: poster
   authors: Ghadeer Ghosheh (University of Oxford); Tingting Zhu (University of Oxford)
-  id: 1
+  id: 16
 
 - title: Detecting Day-Old Chicks in a Box based on Computer Vision
   kind: poster
   authors: Hubert Mouton (Namibia University of Science & Technology); Mbangula Lameck ML Amugongo (Namibia University of Science & Technology)
-  id: 1
+  id: 17
 
 - title: Addressing multi-centre ICU prediction of heart attack and mortality with a pseudo-dynamic explainable machine learning model
   kind: poster
   authors: Munib Mesinovic (University of Oxford)
-  id: 1
+  id: 18
 
 - title: Foundation Model Platforms and Bottom-of-the-Pyramid Innovation
   kind: poster
   authors: Kush R Varshney (IBM Research)
-  id: 1
+  id: 19
 
 - title: "Credit Scores That Prioritize Customer Welfare: Theory and Evidence from Nigeria"
   kind: poster
   authors: Simon Ramirez Amaya (UC Berkeley); Daniel Bjorkegren (Brown University); Joshua Blumenstock (University of California, Berkeley); Suraj R Nair (UC Berkeley)
-  id: 1
+  id: 23
 
 - title: "Can Strategic Data Collection Improve the Performance of Poverty Prediction Models?"
   kind: poster
   authors: Satej Soman (University of California, Berkeley); Emily L Aiken (University of California, Berkeley); Esther Rolf (Harvard University); Joshua Blumenstock (University of California, Berkeley)
-  id: 1
+  id: 24
 
 - title: Domain Generalization in Robust Invariant Representation
   kind: poster   
   authors: Gauri Gupta (MIT); Ritvik Kapila (University of California San Diego); KESHAV GUPTA (Thapar Institute of Engineering and Technology ); Ramesh Raskar (MIT)
-  id: 1
+  id: 25
 
 - title: Uncovering the Effectiveness of Calibration on Open Intent Classification
   kind: poster
   authors: HyeJin Won (SOCAR AI Research); Kyung Ho Park (SOCAR AI Research)
-  id: 1
+  id: 26
 
 - title: "PMixUp: Simultaneous Utilization of Part-of-Speech Replacement and Feature Space \\ Interpolation for Text Data Augmentation"
   kind: poster
   authors: Hyeon Soo Kim (SOCAR AI Research); HyeJin Won (SOCAR AI Research); Kyung Ho Park (SOCAR AI Research)
-  id: 1
+  id: 27
 
 - title: Learning to Lend in Dynamic Resource Constrained Environments
   kind: poster
   authors: Eric Mibuari (Harvard University); David Parkes (Harvard University); Berk Ustun (UCSD)
-  id: 1
+  id: 28
 
 - title: "S2VNTM: SEMI-SUPERVISED VMF NEURAL TOPIC MODELING"
   kind: poster
   authors: Weijie Xu (Amazon); Jay SERVICES Desai (AMAZON); Srinivasan Sengamedu (Amazon); Xiaoyu Jiang (Amazon); Francis Iannacci (Amazon)
-  id: 1
+  id: 30
 
 - title: Adaptive Representations for Semantic Search
   kind: poster
   authors: Aniket Rege (University of Washington); Aditya Kusupati (University of Washington); Sharan Ranjit S (University of Washington); Sham Kakade (Harvard University); Prateek Jain (Google ); Ali Farhadi (University of Washington, Allen Institue for AI, Apple)
-  id: 1
+  id: 31
 
 - title: Towards Globally Responsible and Human-centered Text-to-Image Evaluations
   kind: poster
   authors: Emily Denton (Google); Rida Qadri (Google); Renee Shelby (Google Research)
-  id: 1
+  id: 32
 
 - title: Surprisingly Simple Adapter Ensembling for Zero-Shot Cross-Lingual Sequence Tagging
   kind: poster
   authors: Rohan Shah (Carnegie Mellon University); Preethi Jyothi (Indian Institute of Technology Bombay)
-  id: 1
+  id: 33
 
 - title: When Do Boosted Trees Outperform Neural Nets on Tabular Data?
   kind: poster
   authors: Duncan C McElfresh (University of Maryland); Sujay Khandagale (Abacus.AI); Jonathan Valverde (Google); Vishak Prasad C (Indian Institute Of Technology, Bombay); Ganesh Ramakrishnan (IIT Bombay); Micah Goldblum (University of Maryland); Colin White (Abacus.AI)
-  id: 1
+  id: 34
 
 - title: "Astroformer: More Data might not be all you need, Learning to Predict Galaxy Morphologies with Limited Data"
   kind: poster
   authors: Rishit Dagli (University of Toronto)
-  id: 1
+  id: 35
 
 - title: Fair Prediction of Risk for ICU Treatments for Hypotension in Minority Subpopulations
   kind: poster
   authors: Peniel N Argaw (Harvard); Esther Brown (Harvard University); Isaac Kohane (Harvard Medical School)
-  id: 1
+  id: 36
 
 - title: "VISION HGNN: AN ELECTRON-MICROGRAPH IS WORTH HYPERGRAPH OF HYPERNODES"
   kind: poster
   authors: Rajat Kumar Sarkar (Tata Research Development and Design Centre); Sagar Srinivas Sakhinana (Tata Research Development and Design Center); Sreeja Gangasani (Indian Institute of Technology, Palakkad); Venkataramana Runkana (Tata Consultancy Services Limited)
-  id: 1
+  id: 37
 
 - title: MULTI-KNOWLEDGE FUSION NETWORK FOR TIME SERIES FORECASTING
   kind: poster
   authors: Rajat Kumar Sarkar (Tata Research Development and Design Centre); Sagar Srinivas Sakhinana (Tata Research Development and Design Center); Sudhir Aripirala (TCS); Shivam Gupta (TCS R & I); Venkataramana Runkana (Tata Consultancy Services Limited)
-  id: 1
+  id: 38
 
 - title: Combating Harmful Hype in Natural Language Processing
   kind: poster
   authors: Asmelash Teka (Lesan); Paul Azunre (Algorine); Timnit Gebru (Google)
-  id: 1
+  id: 39
 
 - title: LEARNING FOR HEALTHCARE QUERIES IN LOW RESOURCE LANGUAGE SETTINGS
   kind: poster
   authors: Stanslaus Mwongela (Jacaranda Health & Strathmore Unviersity); Jay Patel (Jacaranda Health); Mohamed Ahmed (Microsoft); Sathyanath Rajasekharan (Jacaranda Health); Stanslaus Mwongela (Jacaranda Health & Strathmore University); Gilles Hacheme (Microsoft); Bernard Shibwabo (Strathmore University); Julius Butime (Strathmore University); Laura Wotton (Jacaranda Health)
-  id: 1
+  id: 40
 
 - title: Model Compression Beyond Size Reduction
   kind: poster
   authors: Mubarek Mohammed Yesuf (Addis Ababa University)
-  id: 1
+  id: 41
 
 - title: "Globalizing Fairness Attributes in Machine Learning: A Case Study on Health in Africa"
   kind: poster
   authors: Mercy N Asiedu (Google LLC); Awa Dieng (Google); Abigail Oppong (Ashesi University|Ghana NLP); Maria Nagawa (Duke University); Sanmi Koyejo (UIUC); Katherine Heller (Google)
-  id: 1
+  id: 43
 
 - title: CHATGPT IS ALL YOU NEED TO DECOLONIZE SUB-SAHARAN VOCATIONAL EDUCATION
   kind: poster
   authors: Isidoros Marougkas (Rutgers, the State University of New Jersey); Isidora Tourni (Boston university); Georgios Grigorakis (National and Kapodistrian University of Athens); Konstantinos M. Rafail Dafnis (Rutgers University); Vasiliki Tassopoulou (University of Pennsylvania)
-  id: 1
+  id: 44
 
 - title: A real-world dataset for AI-based pest population monitoring
   kind: poster
   authors: Jerome White (Wadhwani Institute for Artificial Intelligence); Jigar Doshi (Wadhwani AI)
-  id: 1
+  id: 45
 
 - title: Domain Shift Signal for Low Resource Continuous Test-Time Adaptation
   kind: poster
   authors: Goirik Chakrabarty (Indian Institute of Science, Education and Research - Pune); Manogna Sreenivas (Indian Institute of Science, Bangalore); Soma Biswas (Indian Institute of Science, Bangalore)
-  id: 1
+  id: 46
 
 - title: "JumpStyle: A Framework for Data-Efficient Online Adaptation"
   kind: poster
   authors: Aakash Singh (Indian Institute of Science); Manogna Sreenivas (Indian Institute of Science, Bangalore); Soma Biswas (Indian Institute of Science, Bangalore)
-  id: 1
+  id: 47
 
 - title: Do Models see Corruption as we see? An Item Response Theory based study in Computer Vision
   kind: poster
   authors: Charchit Sharma (IIT Hyderabad); Ayan Kumar Pahari (IIT Hyderabad ); Pranoy Panda (Indian Institute of Technology, Hyderabad); V C Sairam Rebbapragada (Indian Institute of Technology, Hyderabad); Deepak Vijaykeerthy (IBM Research); Vineeth N Balasubramanian (Indian Institute of Technology, Hyderabad)
-  id: 1
+  id: 49
